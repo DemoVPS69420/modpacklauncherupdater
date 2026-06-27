@@ -1,0 +1,365 @@
+{
+  "name": "A Minecraft Setup Build for Server 1.21.1",
+  "version": "1.0.0",
+  "minecraft": "1.21.11",
+  "loader": {
+    "type": "fabric",
+    "version": "0.19.3"
+  },
+  "files": [
+    {
+      "path": "mods/BetterF3-17.0.0-Fabric-1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/Qw1nhj7u/BetterF3-17.0.0-Fabric-1.21.11.jar",
+      "sha1": "e1c57a6377d12d6d26c039d317eec00ae7f08e2b",
+      "size": 1714229
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+      "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
+      "size": 598009
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar",
+      "sha1": "4f17c6b7388f0afc5d24075dc2a294963f78c712",
+      "size": 310445
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "sha1": "86515de45fe960bd717deea0954055106e857b81",
+      "size": 75618
+    },
+    {
+      "path": "mods/bobby-5.2.11+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
+      "sha1": "310d921eb31c11b7dc3596654c4ed345ff92bdd2",
+      "size": 871882
+    },
+    {
+      "path": "mods/c2me-fabric-mc1.21.11-0.4.0-alpha.0.16.jar",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/ZSGmg1qu/c2me-fabric-mc1.21.11-0.4.0-alpha.0.16.jar",
+      "sha1": "8e67db99364c951aeafc5e1513bb72c130e458e2",
+      "size": 3773631
+    },
+    {
+      "path": "mods/cloth-config-21.11.153-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+      "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+      "size": 1148427
+    },
+    {
+      "path": "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/G94OTz7b/cwb-fabric-3.0.0-build.14%2Bmc1.21.11.jar",
+      "sha1": "51d97f5fba7b6a132976765e06f93e8f044d382c",
+      "size": 78535
+    },
+    {
+      "path": "mods/debugify-1.21.11+1.1.jar",
+      "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/xVevtAGn/debugify-1.21.11%2B1.1.jar",
+      "sha1": "a8852a320c6d1a448cfc0f7cb0369e0a3c858146",
+      "size": 376878
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.5-mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/sP0vNbeN/entityculling-fabric-1.10.5-mc1.21.11.jar",
+      "sha1": "270493a6d3a3214495abed9e74f2181817043963",
+      "size": 1604674
+    },
+    {
+      "path": "mods/fabric-api-0.141.4+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5zJNhXV2/fabric-api-0.141.4%2B1.21.11.jar",
+      "sha1": "13d3885dfec40313e2b3bf9ee639353272b9b48a",
+      "size": 2413332
+    },
+    {
+      "path": "mods/fabrishot-1.16.4.jar",
+      "url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/GLPR7u6l/fabrishot-1.16.4.jar",
+      "sha1": "e1fe184321dd305e7935f146637381bd63a29891",
+      "size": 49098
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/E3Ei5xUe/fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
+      "sha1": "f40159e00187cdd12653f460dc9cd1bdf18d0ba5",
+      "size": 10200
+    },
+    {
+      "path": "mods/ferritecore-8.2.0-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+      "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65",
+      "size": 80138
+    },
+    {
+      "path": "mods/freecam-fabric-1.4.1-alpha.1+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/G5CJValP/freecam-fabric-1.4.1-alpha.1%2Bmc1.21.11.jar",
+      "sha1": "d31a7a5ccadaec058d2052cd6b8042977f12cb0c",
+      "size": 1142465
+    },
+    {
+      "path": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+      "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+      "size": 2807547
+    },
+    {
+      "path": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+      "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+      "size": 900462
+    },
+    {
+      "path": "mods/lithostitched-1.7.2-fabric-21.11.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pLbQKCOo/lithostitched-1.7.2-fabric-21.11.jar",
+      "sha1": "d35f576f35115e406466fa426ec661a82b12e760",
+      "size": 813076
+    },
+    {
+      "path": "mods/modmenu-17.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
+      "sha1": "544a8b340ac3918d85bcc7d02eaff5372814354b",
+      "size": 1115809
+    },
+    {
+      "path": "mods/packetfixer-fabric-3.3.5-1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
+      "sha1": "087cd5f23680cacaa5841528fca815c8dbfe5999",
+      "size": 31237
+    },
+    {
+      "path": "mods/placeholder-api-2.8.2+1.21.10.jar",
+      "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+      "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
+      "size": 268662
+    },
+    {
+      "path": "mods/rrlsFabric-5.1.15+mc.1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/TCSbq6jC/rrlsFabric-5.1.15%2Bmc.1.21.11.jar",
+      "sha1": "7101fc7a030925eb22781320476515f408bbe5f4",
+      "size": 198379
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.12+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
+      "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
+      "size": 1905890
+    },
+    {
+      "path": "mods/vmp-fabric-mc1.21.11-0.2.0+beta.7.227-all.jar",
+      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7Cxc2cAR/vmp-fabric-mc1.21.11-0.2.0%2Bbeta.7.227-all.jar",
+      "sha1": "6d665e488ea4f301d639cdf9fd4abf3ffdb44e0d",
+      "size": 416338
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.11-2.6.20.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tiSyltLv/voicechat-fabric-1.21.11-2.6.20.jar",
+      "sha1": "c89ae178b319e83f1461368d2b93c917cd5ce578",
+      "size": 5583524
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+      "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+      "size": 1126948
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fabric/indigo-renderer.properties",
+      "sha1": "ef0b0ebcaca5141bb3e44e7f0b54f8f579d43ef8",
+      "size": 260
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/category-volumes.properties",
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "size": 46
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/player-volumes.properties",
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "size": 44
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/translations.properties",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/voicechat-client.properties",
+      "sha1": "145f72ac54446179c0c3e139995f0bd5f5355601",
+      "size": 5064
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/voicechat-server.properties",
+      "sha1": "37d8e9bbaec0090801d0a74af413c2d3346a600d",
+      "size": 2831
+    },
+    {
+      "path": "config/bobby.conf",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/bobby.conf",
+      "sha1": "6d49b86251699de917e36117ec688ad54685eb0d",
+      "size": 1983
+    },
+    {
+      "path": "config/c2me.toml",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/c2me.toml",
+      "sha1": "8e05e2435607a4144158e92d064b60560be1e28c",
+      "size": 9294
+    },
+    {
+      "path": "config/cubes-without-borders.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/cubes-without-borders.json",
+      "sha1": "e2cf44e89ce729b77574600be530c40de556ad00",
+      "size": 209
+    },
+    {
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/entityculling.json",
+      "sha1": "06318afd00ffe39369a814a689b78d9de15c9bea",
+      "size": 2228
+    },
+    {
+      "path": "config/fabrishot.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fabrishot.properties",
+      "sha1": "9c445c2e4752073a8ed3f948a89dbdd5fc30390a",
+      "size": 205
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/ferritecore.mixin.properties",
+      "sha1": "8cec200d99bbe46689cbae8df75d62f4d52f68c1",
+      "size": 1615
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/forgeconfigapiport.toml",
+      "sha1": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451",
+      "size": 523
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/immediatelyfast.json",
+      "sha1": "2135f9dbac1f6761eb0aedd0ba49fd5ce473eb61",
+      "size": 983
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "size": 31
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/iris.properties",
+      "sha1": "17bc6c9cd729dceed8ceb09217aa5da79e12d7e9",
+      "size": 281
+    },
+    {
+      "path": "config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "size": 267
+    },
+    {
+      "path": "config/lithostitched.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/lithostitched.json",
+      "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48",
+      "size": 284
+    },
+    {
+      "path": "config/modmenu.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/modmenu.json",
+      "sha1": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+      "size": 840
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "size": 135
+    },
+    {
+      "path": "config/packetfixer.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/packetfixer.properties",
+      "sha1": "4e46bba5f5e40e574efb5ff38b7008c78c847be3",
+      "size": 553
+    },
+    {
+      "path": "config/rrls.toml",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/rrls.toml",
+      "sha1": "eeda0c2d7a11653a91fbc094f53b957d7d167e8f",
+      "size": 995
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/sodium-fingerprint.json",
+      "sha1": "cf3256a9373c330a4157cdbe2e0a347c9338d0d9",
+      "size": 427
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "size": 258
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/sodium-options.json",
+      "sha1": "285a7515ed5810acfdaa254c42829aa83f446d9e",
+      "size": 776
+    },
+    {
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/transition.json",
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
+      "size": 97
+    },
+    {
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/trender.json",
+      "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+      "size": 47
+    },
+    {
+      "path": "config/vmp.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/vmp.properties",
+      "sha1": "69abf2a73cb47b5fcd5dfb89549207c58245cd8d",
+      "size": 402
+    },
+    {
+      "path": "config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+      "size": 250
+    },
+    {
+      "path": "icon.png",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/icon.png",
+      "sha1": "142dc950557b08bfc2e88b54f4fbfd95aa19d715",
+      "size": 481
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/options.txt",
+      "sha1": "e36981a53f2a91778cdc2ddaa39bc23637763b7a",
+      "size": 5917
+    },
+    {
+      "path": "servers.dat",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/servers.dat",
+      "sha1": "74c9b4db0df40dbb892a2d0c4c13e1e8a2aba368",
+      "size": 103
+    }
+  ]
+}
