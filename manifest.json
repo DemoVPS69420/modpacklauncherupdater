@@ -165,199 +165,199 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fabric/indigo-renderer.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/fabric/indigo-renderer.properties",
       "sha1": "ef0b0ebcaca5141bb3e44e7f0b54f8f579d43ef8",
       "size": 260
     },
     {
       "path": "config/voicechat/category-volumes.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/category-volumes.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/voicechat/category-volumes.properties",
       "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
       "size": 46
     },
     {
       "path": "config/voicechat/player-volumes.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/player-volumes.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/voicechat/player-volumes.properties",
       "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
       "size": 44
     },
     {
       "path": "config/voicechat/translations.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/translations.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/voicechat/translations.properties",
       "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
       "size": 1182
     },
     {
       "path": "config/voicechat/username-cache.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/username-cache.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/voicechat/username-cache.json",
       "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
       "size": 2
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/voicechat-client.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/voicechat/voicechat-client.properties",
       "sha1": "145f72ac54446179c0c3e139995f0bd5f5355601",
       "size": 5064
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/voicechat/voicechat-server.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/voicechat/voicechat-server.properties",
       "sha1": "37d8e9bbaec0090801d0a74af413c2d3346a600d",
       "size": 2831
     },
     {
       "path": "config/bobby.conf",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/bobby.conf",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/bobby.conf",
       "sha1": "6d49b86251699de917e36117ec688ad54685eb0d",
       "size": 1983
     },
     {
       "path": "config/c2me.toml",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/c2me.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/c2me.toml",
       "sha1": "8e05e2435607a4144158e92d064b60560be1e28c",
       "size": 9294
     },
     {
       "path": "config/cubes-without-borders.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/cubes-without-borders.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/cubes-without-borders.json",
       "sha1": "e2cf44e89ce729b77574600be530c40de556ad00",
       "size": 209
     },
     {
       "path": "config/entityculling.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/entityculling.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/entityculling.json",
       "sha1": "06318afd00ffe39369a814a689b78d9de15c9bea",
       "size": 2228
     },
     {
       "path": "config/fabrishot.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fabrishot.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/fabrishot.properties",
       "sha1": "9c445c2e4752073a8ed3f948a89dbdd5fc30390a",
       "size": 205
     },
     {
       "path": "config/ferritecore.mixin.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/ferritecore.mixin.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/ferritecore.mixin.properties",
       "sha1": "8cec200d99bbe46689cbae8df75d62f4d52f68c1",
       "size": 1615
     },
     {
       "path": "config/forgeconfigapiport.toml",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/forgeconfigapiport.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/forgeconfigapiport.toml",
       "sha1": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451",
       "size": 523
     },
     {
       "path": "config/immediatelyfast.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/immediatelyfast.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/immediatelyfast.json",
       "sha1": "2135f9dbac1f6761eb0aedd0ba49fd5ce473eb61",
       "size": 983
     },
     {
       "path": "config/iris-excluded.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/iris-excluded.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/iris-excluded.json",
       "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
       "size": 31
     },
     {
       "path": "config/iris.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/iris.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/iris.properties",
       "sha1": "17bc6c9cd729dceed8ceb09217aa5da79e12d7e9",
       "size": 281
     },
     {
       "path": "config/lithium.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/lithium.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/lithium.properties",
       "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
       "size": 267
     },
     {
       "path": "config/lithostitched.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/lithostitched.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/lithostitched.json",
       "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48",
       "size": 284
     },
     {
       "path": "config/modmenu.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/modmenu.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/modmenu.json",
       "sha1": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
       "size": 840
     },
     {
       "path": "config/MouseTweaks.cfg",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/MouseTweaks.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/MouseTweaks.cfg",
       "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
       "size": 135
     },
     {
       "path": "config/packetfixer.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/packetfixer.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/packetfixer.properties",
       "sha1": "4e46bba5f5e40e574efb5ff38b7008c78c847be3",
       "size": 553
     },
     {
       "path": "config/rrls.toml",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/rrls.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/rrls.toml",
       "sha1": "eeda0c2d7a11653a91fbc094f53b957d7d167e8f",
       "size": 995
     },
     {
       "path": "config/sodium-fingerprint.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/sodium-fingerprint.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/sodium-fingerprint.json",
       "sha1": "cf3256a9373c330a4157cdbe2e0a347c9338d0d9",
       "size": 427
     },
     {
       "path": "config/sodium-mixins.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/sodium-mixins.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/sodium-mixins.properties",
       "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
       "size": 258
     },
     {
       "path": "config/sodium-options.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/sodium-options.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/sodium-options.json",
       "sha1": "285a7515ed5810acfdaa254c42829aa83f446d9e",
       "size": 776
     },
     {
       "path": "config/transition.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/transition.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/transition.json",
       "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
       "size": 97
     },
     {
       "path": "config/trender.json",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/trender.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
       "size": 47
     },
     {
       "path": "config/vmp.properties",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/vmp.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/vmp.properties",
       "sha1": "69abf2a73cb47b5fcd5dfb89549207c58245cd8d",
       "size": 402
     },
     {
       "path": "config/yacl.json5",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/yacl.json5",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
       "size": 250
     },
     {
       "path": "icon.png",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/icon.png",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/icon.png",
       "sha1": "142dc950557b08bfc2e88b54f4fbfd95aa19d715",
       "size": 481
     },
     {
       "path": "options.txt",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/options.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/options.txt",
       "sha1": "e36981a53f2a91778cdc2ddaa39bc23637763b7a",
       "size": 5917
     },
     {
       "path": "servers.dat",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/servers.dat",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@main/overrides/servers.dat",
       "sha1": "74c9b4db0df40dbb892a2d0c4c13e1e8a2aba368",
       "size": 103
     }
