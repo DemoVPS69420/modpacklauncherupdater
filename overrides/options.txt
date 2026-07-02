@@ -29,7 +29,7 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"false"
 cloudRange:64
-renderDistance:14
+renderDistance:11
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:[]
+resourcePacks:["vanilla","file/rp72.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
