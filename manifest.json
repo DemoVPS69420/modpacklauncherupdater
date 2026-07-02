@@ -1,6 +1,6 @@
 {
   "name": "A Minecraft Setup Build for Server 1.21.1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minecraft": "1.21.11",
   "loader": {
     "type": "fabric",
@@ -86,6 +86,12 @@
       "size": 49098
     },
     {
+      "path": "mods/fancymenu_fabric_3.9.6_MC_1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UvucrFQM/fancymenu_fabric_3.9.6_MC_1.21.11.jar",
+      "sha1": "27374450f6216108f4069cf35eaa90cc218fb908",
+      "size": 25676643
+    },
+    {
       "path": "mods/fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
       "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/E3Ei5xUe/fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
       "sha1": "f40159e00187cdd12653f460dc9cd1bdf18d0ba5",
@@ -110,6 +116,12 @@
       "size": 2807547
     },
     {
+      "path": "mods/konkrete_fabric_1.9.18_MC_1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/6ypTGwlP/konkrete_fabric_1.9.18_MC_1.21.11.jar",
+      "sha1": "734866bdeed1af0b1fa23b131bd841648af96f69",
+      "size": 771623
+    },
+    {
       "path": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
       "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
@@ -120,6 +132,12 @@
       "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pLbQKCOo/lithostitched-1.7.2-fabric-21.11.jar",
       "sha1": "d35f576f35115e406466fa426ec661a82b12e760",
       "size": 813076
+    },
+    {
+      "path": "mods/melody_fabric_1.0.15_MC_1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/Xo1GAiPu/melody_fabric_1.0.15_MC_1.21.11.jar",
+      "sha1": "f964abb4947c35b0d85051772c3ed72d6891cf51",
+      "size": 227886
     },
     {
       "path": "mods/modmenu-17.0.0.jar",
@@ -164,10 +182,28 @@
       "size": 5583524
     },
     {
+      "path": "mods/watermedia-3.0.0.21.jar",
+      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/OUchGva4/watermedia-3.0.0.21.jar",
+      "sha1": "8807fbb93c97c482f58f935e809bebca3ffd1d6d",
+      "size": 3201494
+    },
+    {
+      "path": "mods/watermedia_binaries-3.0.0-rc.4.jar",
+      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/AvQh3tTO/watermedia_binaries-3.0.0-rc.4.jar",
+      "sha1": "a84499e127c09e96f2a97843fc5d53602a333400",
+      "size": 143710524
+    },
+    {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
       "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
       "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
       "size": 1126948
+    },
+    {
+      "path": "resourcepacks/GravestoneDungeonsRESOURCE_PACK_1.7.1.zip",
+      "url": "https://cdn.modrinth.com/data/hWidpVc7/versions/Y6mNuvUG/GravestoneDungeonsRESOURCE_PACK_1.7.1.zip",
+      "sha1": "305138f73c9be6818dd5565b29d49d3835f5b5ad",
+      "size": 99394269
     },
     {
       "path": "resourcepacks/rp72.zip",
@@ -176,10 +212,118 @@
       "size": 32264958
     },
     {
+      "path": "config/asyncparticles/asyncparticles-mixin.properties",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/asyncparticles/asyncparticles-mixin.properties",
+      "sha1": "8b9e94deb8d889cdb182f3c5f5c5c780cc4e23c0",
+      "size": 1096
+    },
+    {
       "path": "config/fabric/indigo-renderer.properties",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "bf68d23be6bc02454ae56b8d6541748ec858c791",
+      "sha1": "efa9161e9677987891603e18483638c5fc861868",
       "size": 260
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "2bdf84b7ac53eec62f70dfdc131893ce03a00842",
+      "size": 58101
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "size": 197
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/customizablemenus.txt",
+      "sha1": "97c76f9e4585744d4f45401fe15959311404233c",
+      "size": 55
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/options.txt",
+      "sha1": "f2d2b808f5477268e8d44605940c327d66123300",
+      "size": 4398
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23
+    },
+    {
+      "path": "config/fancymenu/video_element_controller_metas.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/video_element_controller_metas.json",
+      "sha1": "e1906c00f246a0f8c23ff937aefe91715dffaee7",
+      "size": 130
     },
     {
       "path": "config/voicechat/category-volumes.properties",
@@ -262,8 +406,8 @@
     {
       "path": "config/immediatelyfast.json",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/immediatelyfast.json",
-      "sha1": "2135f9dbac1f6761eb0aedd0ba49fd5ce473eb61",
-      "size": 983
+      "sha1": "ae7b0e4e4ddeab6fe71db334b0a2c0ebb5c56472",
+      "size": 1023
     },
     {
       "path": "config/iris-excluded.json",
@@ -274,7 +418,7 @@
     {
       "path": "config/iris.properties",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/iris.properties",
-      "sha1": "823128a46078530a5af9b13fc818639ee2e5c4df",
+      "sha1": "d582fbedca3548aa5ad90e78c50a5261d168cc66",
       "size": 281
     },
     {
@@ -304,7 +448,7 @@
     {
       "path": "config/packetfixer.properties",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/packetfixer.properties",
-      "sha1": "ef641d8d83f33bbec098969f230c3446065e6d00",
+      "sha1": "0da66b2007dc432e95bbc5e47dad676c086f0bee",
       "size": 553
     },
     {
@@ -346,14 +490,80 @@
     {
       "path": "config/vmp.properties",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/vmp.properties",
-      "sha1": "3144daac9ed14b69a9e7a3a58b1e89d052d4acfa",
+      "sha1": "a4995379381d87da765c09ce968b7458c398232b",
       "size": 402
+    },
+    {
+      "path": "config/watermedia.toml",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/watermedia.toml",
+      "sha1": "1a70906d75ac127525903323ebaa53a519c7c428",
+      "size": 6417
     },
     {
       "path": "config/yacl.json5",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
       "size": 250
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
+      "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
+      "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
+      "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/action_favorites.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/action_favorites.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/browser_audio_settings.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/browser_audio_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/browser_video_settings.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/browser_video_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/fancymenu_data/last_world.fmdata",
+      "sha1": "e0b04195067db0b9e168c3bc8a4dfa8e154ababa",
+      "size": 101
     },
     {
       "path": "icon.png",
@@ -364,14 +574,8 @@
     {
       "path": "options.txt",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/options.txt",
-      "sha1": "95c426f676cc966a272cdbfe0095ca41bf9d2c82",
-      "size": 5942
-    },
-    {
-      "path": "servers.dat",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/servers.dat",
-      "sha1": "74c9b4db0df40dbb892a2d0c4c13e1e8a2aba368",
-      "size": 103
+      "sha1": "f426c5c9468b2e8da163d8cd66c90cc3b6e6128a",
+      "size": 6190
     }
   ]
 }
