@@ -224,6 +224,12 @@
       "size": 260
     },
     {
+      "path": "config/fancymenu/assets/trailerminecraft.mp4",
+      "url": "https://github.com/DemoVPS69420/modpacklauncherupdater/releases/download/modpack-assets/trailerminecraft.mp4",
+      "sha1": "0af108c37d68231b48cc74ea95e5f288f903ac83",
+      "size": 125321608
+    },
+    {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/config/fancymenu/customization/title_screen_layout.txt",
       "sha1": "2bdf84b7ac53eec62f70dfdc131893ce03a00842",
