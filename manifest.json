@@ -582,6 +582,12 @@
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/main/overrides/options.txt",
       "sha1": "f426c5c9468b2e8da163d8cd66c90cc3b6e6128a",
       "size": 6190
+    },
+    {
+      "path": "mods/nvidium-0.4.3-beta13-1.21.11.jar",
+      "url": "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta13/nvidium-0.4.3-beta13-1.21.11.jar",
+      "sha1": "08fa4be6b87c0b586efe7d5ee462f46e7a5d647d",
+      "size": 174412
     }
   ]
 }
