@@ -612,6 +612,12 @@
       "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/uriWt4r9/mcw-windows-2.4.2-mc1.21.11fabric.jar",
       "sha1": "3e52dcbdcfcc3145bd7e285a3354c2e484d9573c",
       "size": 1289522
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/G56MgNgk/mcw-doors-1.1.5-mc1.21.11fabric.jar",
+      "sha1": "3e8eccf6a57a25f05e3e1fd97d1eb214ef0c45d3",
+      "size": 1383975
     }
   ]
 }
