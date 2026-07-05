@@ -666,6 +666,12 @@
       "url": "https://cdn.modrinth.com/data/CYQ7VYrM/versions/Oqc7ToJf/ToadLib-1.4.4-1.21.11.jar",
       "sha1": "11e484dd7ab7ce1f8d2b006599778c5c22296aec",
       "size": 474497
+    },
+    {
+      "path": "mods/Resourcify (1.21.11-fabric)-1.8.3.jar",
+      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/ijoZDewc/Resourcify%20%281.21.11-fabric%29-1.8.3.jar",
+      "sha1": "4a7bd6f117997fa4857d2cdad65513aae1cac9b2",
+      "size": 2614141
     }
   ]
 }
