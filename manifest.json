@@ -648,6 +648,12 @@
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
       "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
       "size": 568474
+    },
+    {
+      "path": "mods/stonechest-fabric-1.21.11-1.1.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7626/275/stonechest-fabric-1.21.11-1.1.0.jar",
+      "sha1": "569a81de7c82d21b916f07c0f00ba5cc0223db28",
+      "size": 372284
     }
   ]
 }
