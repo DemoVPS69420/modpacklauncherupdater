@@ -660,6 +660,12 @@
       "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/QEx1Idx0/GPUBooster-1.2.5-1.21.11-fabric.jar",
       "sha1": "fdfe774095b7419f8ce05f87df1ada5532a5c2ae",
       "size": 190166
+    },
+    {
+      "path": "mods/ToadLib-1.4.4-1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/CYQ7VYrM/versions/Oqc7ToJf/ToadLib-1.4.4-1.21.11.jar",
+      "sha1": "11e484dd7ab7ce1f8d2b006599778c5c22296aec",
+      "size": 474497
     }
   ]
 }
