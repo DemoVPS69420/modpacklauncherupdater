@@ -678,6 +678,12 @@
       "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
       "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
       "size": 8076848
+    },
+    {
+      "path": "mods/Ancient Artifacts 2 V2.5.5g for 1.21.6-26.2.jar",
+      "url": "https://cdn.modrinth.com/data/RO3LwIqV/versions/5dSzfiCx/Ancient%20Artifacts%202%20V2.5.5g%20for%201.21.6-26.2.jar",
+      "sha1": "2842e57a2be5a6c72aca909fda2709a9afa38a64",
+      "size": 61903493
     }
   ]
 }
