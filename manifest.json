@@ -588,6 +588,12 @@
       "url": "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta13/nvidium-0.4.3-beta13-1.21.11.jar",
       "sha1": "08fa4be6b87c0b586efe7d5ee462f46e7a5d647d",
       "size": 174412
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/xhmciaUD/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+      "sha1": "28f0929b6005bc28b1bde475579c13020420ae9f",
+      "size": 2184868
     }
   ]
 }
