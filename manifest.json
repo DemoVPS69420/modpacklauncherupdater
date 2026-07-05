@@ -630,6 +630,12 @@
       "url": "https://mediafilez.forgecdn.net/files/7357/121/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
       "sha1": "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2",
       "size": 307751
+    },
+    {
+      "path": "mods/decocraft-3.0.9-1.21.11-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7899/847/decocraft-3.0.9-1.21.11-fabric.jar",
+      "sha1": "afa7d67b84d4d4a2d9e69eaca51fd6a53aa1d274",
+      "size": 94422371
     }
   ]
 }
