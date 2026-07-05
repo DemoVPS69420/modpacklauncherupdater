@@ -624,6 +624,12 @@
       "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/VwHKtWix/mcw-bridges-3.1.2-mc1.21.11fabric.jar",
       "sha1": "5215a9e43d875ff9ce58e02e134f518ea249c3c3",
       "size": 690255
+    },
+    {
+      "path": "mods/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7357/121/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
+      "sha1": "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2",
+      "size": 307751
     }
   ]
 }
