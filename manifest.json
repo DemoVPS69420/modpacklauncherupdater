@@ -194,6 +194,12 @@
       "size": 1126948
     },
     {
+      "path": "mods/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+      "sha1": "9e87a1d9066f8b4c6eee20e6556834e20c7cc1e8",
+      "size": 3777364
+    },
+    {
       "path": "resourcepacks/GravestoneDungeonsRESOURCE_PACK_1.7.1.zip",
       "url": "https://cdn.modrinth.com/data/hWidpVc7/versions/Y6mNuvUG/GravestoneDungeonsRESOURCE_PACK_1.7.1.zip",
       "sha1": "305138f73c9be6818dd5565b29d49d3835f5b5ad",
