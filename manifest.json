@@ -746,6 +746,12 @@
       "url": "https://cdn.modrinth.com/data/RO3LwIqV/versions/5dSzfiCx/Ancient%20Artifacts%202%20V2.5.5g%20for%201.21.6-26.2.jar",
       "sha1": "2842e57a2be5a6c72aca909fda2709a9afa38a64",
       "size": 61903493
+    },
+    {
+      "path": "mods/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+      "sha1": "9e87a1d9066f8b4c6eee20e6556834e20c7cc1e8",
+      "size": 3777364
     }
   ]
 }
