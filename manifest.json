@@ -810,16 +810,16 @@
       "size": 465262
     },
     {
-      "path": "mods/morechathistory-1.3.1.jar",
-      "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar",
-      "sha1": "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e",
-      "size": 3573
-    },
-    {
       "path": "mods/sodium-fabric-0.8.12+mc1.21.11.jar",
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
       "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
       "size": 1905890
+    },
+    {
+      "path": "mods/morechathistory-1.3.1.jar",
+      "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar",
+      "sha1": "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e",
+      "size": 3573
     }
   ]
 }
