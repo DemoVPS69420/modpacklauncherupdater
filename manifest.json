@@ -207,7 +207,7 @@
     },
     {
       "path": "config/asyncparticles/asyncparticles-mixin.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/asyncparticles/asyncparticles-mixin.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/asyncparticles/asyncparticles-mixin.properties",
       "sha1": "8b9e94deb8d889cdb182f3c5f5c5c780cc4e23c0",
       "size": 1096,
       "once": true,
@@ -215,7 +215,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fabric/indigo-renderer.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fabric/indigo-renderer.properties",
       "sha1": "efa9161e9677987891603e18483638c5fc861868",
       "size": 260,
       "once": true,
@@ -231,7 +231,7 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/customization/title_screen_layout.txt",
       "sha1": "2bdf84b7ac53eec62f70dfdc131893ce03a00842",
       "size": 58101,
       "once": true,
@@ -239,7 +239,7 @@
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
       "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
       "size": 197,
       "once": true,
@@ -247,7 +247,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/cherry_blossom.json",
       "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
       "size": 9349,
       "once": true,
@@ -255,7 +255,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/cozy_campfire.json",
       "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
       "size": 9347,
       "once": true,
@@ -263,7 +263,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/dark.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/dark.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/dark.json",
       "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
       "size": 9329,
       "once": true,
@@ -271,7 +271,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
       "sha1": "9583fa877b286337557aae3429f91d66682091b7",
       "size": 9359,
       "once": true,
@@ -279,7 +279,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/light.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/light.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/light.json",
       "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
       "size": 9331,
       "once": true,
@@ -287,7 +287,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/light_high_contrast.json",
       "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
       "size": 9361,
       "once": true,
@@ -295,7 +295,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
       "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
       "size": 9345,
       "once": true,
@@ -303,7 +303,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/purple_void.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/purple_void.json",
       "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
       "size": 9343,
       "once": true,
@@ -311,7 +311,7 @@
     },
     {
       "path": "config/fancymenu/ui_themes/spooky_season.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/spooky_season.json",
       "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
       "size": 9347,
       "once": true,
@@ -319,7 +319,7 @@
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/custom_gui_screens.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/custom_gui_screens.txt",
       "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
       "size": 51,
       "once": true,
@@ -327,7 +327,7 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/customizablemenus.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/customizablemenus.txt",
       "sha1": "97c76f9e4585744d4f45401fe15959311404233c",
       "size": 55,
       "once": true,
@@ -335,7 +335,7 @@
     },
     {
       "path": "config/fancymenu/legacy_checklist.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/legacy_checklist.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/legacy_checklist.txt",
       "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
       "size": 42,
       "once": true,
@@ -343,7 +343,7 @@
     },
     {
       "path": "config/fancymenu/options.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/options.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/options.txt",
       "sha1": "f2d2b808f5477268e8d44605940c327d66123300",
       "size": 4398,
       "once": true,
@@ -351,7 +351,7 @@
     },
     {
       "path": "config/fancymenu/user_variables.db",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/user_variables.db",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/user_variables.db",
       "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
       "size": 23,
       "once": true,
@@ -359,7 +359,7 @@
     },
     {
       "path": "config/fancymenu/video_element_controller_metas.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fancymenu/video_element_controller_metas.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/video_element_controller_metas.json",
       "sha1": "e1906c00f246a0f8c23ff937aefe91715dffaee7",
       "size": 130,
       "once": true,
@@ -367,7 +367,7 @@
     },
     {
       "path": "config/voicechat/category-volumes.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/voicechat/category-volumes.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/category-volumes.properties",
       "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
       "size": 46,
       "once": true,
@@ -375,7 +375,7 @@
     },
     {
       "path": "config/voicechat/player-volumes.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/voicechat/player-volumes.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/player-volumes.properties",
       "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
       "size": 44,
       "once": true,
@@ -383,7 +383,7 @@
     },
     {
       "path": "config/voicechat/translations.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/voicechat/translations.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/translations.properties",
       "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
       "size": 1182,
       "once": true,
@@ -391,7 +391,7 @@
     },
     {
       "path": "config/voicechat/username-cache.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/voicechat/username-cache.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/username-cache.json",
       "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
       "size": 2,
       "once": true,
@@ -399,7 +399,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/voicechat/voicechat-client.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/voicechat-client.properties",
       "sha1": "145f72ac54446179c0c3e139995f0bd5f5355601",
       "size": 5064,
       "once": true,
@@ -407,7 +407,7 @@
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/voicechat/voicechat-server.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/voicechat-server.properties",
       "sha1": "37d8e9bbaec0090801d0a74af413c2d3346a600d",
       "size": 2831,
       "once": true,
@@ -415,7 +415,7 @@
     },
     {
       "path": "config/bobby.conf",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/bobby.conf",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/bobby.conf",
       "sha1": "6d49b86251699de917e36117ec688ad54685eb0d",
       "size": 1983,
       "once": true,
@@ -423,7 +423,7 @@
     },
     {
       "path": "config/c2me.toml",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/c2me.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/c2me.toml",
       "sha1": "8e05e2435607a4144158e92d064b60560be1e28c",
       "size": 9294,
       "once": true,
@@ -431,7 +431,7 @@
     },
     {
       "path": "config/cubes-without-borders.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/cubes-without-borders.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/cubes-without-borders.json",
       "sha1": "e2cf44e89ce729b77574600be530c40de556ad00",
       "size": 209,
       "once": true,
@@ -439,7 +439,7 @@
     },
     {
       "path": "config/entityculling.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/entityculling.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/entityculling.json",
       "sha1": "06318afd00ffe39369a814a689b78d9de15c9bea",
       "size": 2228,
       "once": true,
@@ -447,7 +447,7 @@
     },
     {
       "path": "config/fabrishot.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/fabrishot.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fabrishot.properties",
       "sha1": "9c445c2e4752073a8ed3f948a89dbdd5fc30390a",
       "size": 205,
       "once": true,
@@ -455,7 +455,7 @@
     },
     {
       "path": "config/ferritecore.mixin.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/ferritecore.mixin.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/ferritecore.mixin.properties",
       "sha1": "8cec200d99bbe46689cbae8df75d62f4d52f68c1",
       "size": 1615,
       "once": true,
@@ -463,7 +463,7 @@
     },
     {
       "path": "config/forgeconfigapiport.toml",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/forgeconfigapiport.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/forgeconfigapiport.toml",
       "sha1": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451",
       "size": 523,
       "once": true,
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/immediatelyfast.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/immediatelyfast.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/immediatelyfast.json",
       "sha1": "ae7b0e4e4ddeab6fe71db334b0a2c0ebb5c56472",
       "size": 1023,
       "once": true,
@@ -479,7 +479,7 @@
     },
     {
       "path": "config/iris-excluded.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/iris-excluded.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/iris-excluded.json",
       "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
       "size": 31,
       "once": true,
@@ -487,7 +487,7 @@
     },
     {
       "path": "config/iris.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/iris.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/iris.properties",
       "sha1": "d582fbedca3548aa5ad90e78c50a5261d168cc66",
       "size": 281,
       "once": true,
@@ -495,7 +495,7 @@
     },
     {
       "path": "config/lithium.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/lithium.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/lithium.properties",
       "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
       "size": 267,
       "once": true,
@@ -503,7 +503,7 @@
     },
     {
       "path": "config/lithostitched.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/lithostitched.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/lithostitched.json",
       "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48",
       "size": 284,
       "once": true,
@@ -511,7 +511,7 @@
     },
     {
       "path": "config/modmenu.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/modmenu.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/modmenu.json",
       "sha1": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
       "size": 840,
       "once": true,
@@ -519,7 +519,7 @@
     },
     {
       "path": "config/MouseTweaks.cfg",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/MouseTweaks.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/MouseTweaks.cfg",
       "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794",
       "size": 135,
       "once": true,
@@ -527,7 +527,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/packetfixer.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/packetfixer.properties",
       "sha1": "0da66b2007dc432e95bbc5e47dad676c086f0bee",
       "size": 553,
       "once": true,
@@ -535,7 +535,7 @@
     },
     {
       "path": "config/rrls.toml",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/rrls.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/rrls.toml",
       "sha1": "eeda0c2d7a11653a91fbc094f53b957d7d167e8f",
       "size": 995,
       "once": true,
@@ -543,7 +543,7 @@
     },
     {
       "path": "config/sodium-fingerprint.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/sodium-fingerprint.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/sodium-fingerprint.json",
       "sha1": "cf3256a9373c330a4157cdbe2e0a347c9338d0d9",
       "size": 427,
       "once": true,
@@ -551,7 +551,7 @@
     },
     {
       "path": "config/sodium-mixins.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/sodium-mixins.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/sodium-mixins.properties",
       "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
       "size": 258,
       "once": true,
@@ -559,7 +559,7 @@
     },
     {
       "path": "config/sodium-options.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/sodium-options.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/sodium-options.json",
       "sha1": "285a7515ed5810acfdaa254c42829aa83f446d9e",
       "size": 776,
       "once": true,
@@ -567,7 +567,7 @@
     },
     {
       "path": "config/transition.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/transition.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/transition.json",
       "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
       "size": 97,
       "once": true,
@@ -575,7 +575,7 @@
     },
     {
       "path": "config/trender.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/trender.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
       "size": 47,
       "once": true,
@@ -583,7 +583,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/vmp.properties",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/vmp.properties",
       "sha1": "a4995379381d87da765c09ce968b7458c398232b",
       "size": 402,
       "once": true,
@@ -591,7 +591,7 @@
     },
     {
       "path": "config/watermedia.toml",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/watermedia.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/watermedia.toml",
       "sha1": "1a70906d75ac127525903323ebaa53a519c7c428",
       "size": 6417,
       "once": true,
@@ -599,7 +599,7 @@
     },
     {
       "path": "config/yacl.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/config/yacl.json5",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
       "size": 250,
       "once": true,
@@ -607,7 +607,7 @@
     },
     {
       "path": "fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
       "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
       "size": 1619,
       "once": true,
@@ -615,7 +615,7 @@
     },
     {
       "path": "fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
       "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
       "size": 1619,
       "once": true,
@@ -623,7 +623,7 @@
     },
     {
       "path": "fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
       "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
       "size": 1619,
       "once": true,
@@ -631,7 +631,7 @@
     },
     {
       "path": "fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
       "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
       "size": 380,
       "once": true,
@@ -639,7 +639,7 @@
     },
     {
       "path": "fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
       "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
       "size": 380,
       "once": true,
@@ -647,7 +647,7 @@
     },
     {
       "path": "fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
       "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
       "size": 380,
       "once": true,
@@ -655,7 +655,7 @@
     },
     {
       "path": "fancymenu_data/action_favorites.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/action_favorites.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/action_favorites.json",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0,
       "once": true,
@@ -663,7 +663,7 @@
     },
     {
       "path": "fancymenu_data/browser_audio_settings.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/browser_audio_settings.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/browser_audio_settings.json",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0,
       "once": true,
@@ -671,7 +671,7 @@
     },
     {
       "path": "fancymenu_data/browser_video_settings.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/browser_video_settings.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/browser_video_settings.json",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0,
       "once": true,
@@ -679,7 +679,7 @@
     },
     {
       "path": "fancymenu_data/last_world.fmdata",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/fancymenu_data/last_world.fmdata",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/last_world.fmdata",
       "sha1": "e0b04195067db0b9e168c3bc8a4dfa8e154ababa",
       "size": 101,
       "once": true,
@@ -687,7 +687,7 @@
     },
     {
       "path": "icon.png",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/icon.png",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/icon.png",
       "sha1": "142dc950557b08bfc2e88b54f4fbfd95aa19d715",
       "size": 481,
       "once": true,
@@ -695,7 +695,7 @@
     },
     {
       "path": "options.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@c98f389e2cab8d09056e90496792d878b255e246/overrides/options.txt",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/options.txt",
       "sha1": "f426c5c9468b2e8da163d8cd66c90cc3b6e6128a",
       "size": 6190,
       "once": true,
