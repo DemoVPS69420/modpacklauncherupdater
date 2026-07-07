@@ -820,6 +820,12 @@
       "url": "https://mediafilez.forgecdn.net/files/8124/726/AdvancementPlaques-1.21.11-fabric-1.7.0.jar",
       "sha1": "cca5d8ff3dabc3677f97a4fa426f2336d78e1d18",
       "size": 196120
+    },
+    {
+      "path": "mods/Iceberg-1.21.11-fabric-1.4.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/yRNBxEJF/Iceberg-1.21.11-fabric-1.4.0.1.jar",
+      "sha1": "911073f3958e22ff87920662e9e85e189243e1a2",
+      "size": 377185
     }
   ]
 }
