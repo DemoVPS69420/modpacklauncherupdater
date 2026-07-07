@@ -814,6 +814,12 @@
       "url": "https://mediafilez.forgecdn.net/files/8254/502/undertale_death_screen-2.0.0-fabric-1.21.11.jar",
       "sha1": "d51b5cc86600fba5f9f7796e4b108d3775900cfa",
       "size": 465262
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.13+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
+      "sha1": "e757883c4959582bed8b057c1f830cb84f325567",
+      "size": 1907864
     }
   ]
 }
