@@ -826,6 +826,12 @@
       "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/yRNBxEJF/Iceberg-1.21.11-fabric-1.4.0.1.jar",
       "sha1": "911073f3958e22ff87920662e9e85e189243e1a2",
       "size": 377185
+    },
+    {
+      "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
+      "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/OUQC9j12/CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
+      "sha1": "bd73f580d652a9cf87566ccb0fb63666f5651879",
+      "size": 3170355
     }
   ]
 }
