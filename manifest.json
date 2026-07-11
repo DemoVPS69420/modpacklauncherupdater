@@ -36,150 +36,6 @@
       "optional": true
     },
     {
-      "path": "config/fancymenu/assets/trailerminecraft.mp4",
-      "url": "https://github.com/DemoVPS69420/modpacklauncherupdater/releases/download/modpack-assets/trailerminecraft.mp4",
-      "sha1": "0af108c37d68231b48cc74ea95e5f288f903ac83",
-      "size": 125321608,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "2bdf84b7ac53eec62f70dfdc131893ce03a00842",
-      "size": 58101,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
-      "size": 197,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/cherry_blossom.json",
-      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
-      "size": 9349,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/cozy_campfire.json",
-      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
-      "size": 9347,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/dark.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/dark.json",
-      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
-      "size": 9329,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
-      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
-      "size": 9359,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/light.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/light.json",
-      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
-      "size": 9331,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/light_high_contrast.json",
-      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
-      "size": 9361,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
-      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
-      "size": 9345,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/purple_void.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/purple_void.json",
-      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
-      "size": 9343,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/ui_themes/spooky_season.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/ui_themes/spooky_season.json",
-      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
-      "size": 9347,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/custom_gui_screens.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/custom_gui_screens.txt",
-      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
-      "size": 51,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/customizablemenus.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/customizablemenus.txt",
-      "sha1": "97c76f9e4585744d4f45401fe15959311404233c",
-      "size": 55,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/legacy_checklist.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/legacy_checklist.txt",
-      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
-      "size": 42,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/options.txt",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/options.txt",
-      "sha1": "f2d2b808f5477268e8d44605940c327d66123300",
-      "size": 4398,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/user_variables.db",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/user_variables.db",
-      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
-      "size": 23,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "config/fancymenu/video_element_controller_metas.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/fancymenu/video_element_controller_metas.json",
-      "sha1": "e1906c00f246a0f8c23ff937aefe91715dffaee7",
-      "size": 130,
-      "once": true,
-      "optional": true
-    },
-    {
       "path": "config/voicechat/category-volumes.properties",
       "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/config/voicechat/category-volumes.properties",
       "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
@@ -420,86 +276,6 @@
       "optional": true
     },
     {
-      "path": "fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_leveling_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_leveling_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_leveling_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
-      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
-      "size": 1619,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_save_MDk3YjRlNGUtNzkyMy00ZmYyLWI0YTgtYTU5YTI1ZGEzZmE3LTE3ODI5NjQxMTU1NDc.json",
-      "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
-      "size": 380,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_save_MmYxZTJjNGMtYjhmNi00YjEyLTljOWQtMzhmNTZiOTg2MjA3LTE3ODI5NjQwMTY1OTk.json",
-      "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
-      "size": 380,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/buddy/buddy_save_NmQwODllZGYtYWJkMi00ZjZiLTgyNDItNTQ4YzhlODcxMjc3LTE3ODI5NjQwODAwMTY.json",
-      "sha1": "4ecfd5c63bc474ec8ffa6f6e4cc692f35ac56df4",
-      "size": 380,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/action_favorites.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/action_favorites.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/browser_audio_settings.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/browser_audio_settings.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/browser_video_settings.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/browser_video_settings.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0,
-      "once": true,
-      "optional": true
-    },
-    {
-      "path": "fancymenu_data/last_world.fmdata",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/fancymenu_data/last_world.fmdata",
-      "sha1": "e0b04195067db0b9e168c3bc8a4dfa8e154ababa",
-      "size": 101,
-      "once": true,
-      "optional": true
-    },
-    {
       "path": "icon.png",
       "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@8b3487c295d309685be496b21e385221f462f068/overrides/icon.png",
       "sha1": "142dc950557b08bfc2e88b54f4fbfd95aa19d715",
@@ -538,6 +314,48 @@
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
       "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
       "size": 900462
-    }
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/xhmciaUD/mcw-furniture-3.4.2-mc1.21.11fabric.jar",
+      "sha1": "28f0929b6005bc28b1bde475579c13020420ae9f",
+      "size": 2184868
+    },
+    {
+      "path": "mods/mcw-stairs-1.0.2-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/HePuVuYI/mcw-stairs-1.0.2-mc1.21.11fabric.jar",
+      "sha1": "13cc04678a48f0c0f007747fce990078f4b9cab6",
+      "size": 518387
+    },
+    {
+      "path": "mods/mcw-fences-1.2.1-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/KvcFYpyP/mcw-fences-1.2.1-mc1.21.11fabric.jar",
+      "sha1": "4a81210e213f6cac0fb94e545af2827685f4abbc",
+      "size": 648429
+    },
+    {
+      "path": "mods/mcw-windows-2.4.2-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/uriWt4r9/mcw-windows-2.4.2-mc1.21.11fabric.jar",
+      "sha1": "3e52dcbdcfcc3145bd7e285a3354c2e484d9573c",
+      "size": 1289522
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/G56MgNgk/mcw-doors-1.1.5-mc1.21.11fabric.jar",
+      "sha1": "3e8eccf6a57a25f05e3e1fd97d1eb214ef0c45d3",
+      "size": 1383975
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+      "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/VwHKtWix/mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+      "sha1": "5215a9e43d875ff9ce58e02e134f518ea249c3c3",
+      "size": 690255
+    },
+    {
+      "path": "mods/decocraft-3.0.9-1.21.11-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/7899/847/decocraft-3.0.9-1.21.11-fabric.jar",
+      "sha1": "afa7d67b84d4d4a2d9e69eaca51fd6a53aa1d274",
+      "size": 94422371
+    },
   ]
 }
