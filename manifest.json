@@ -526,6 +526,12 @@
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
       "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
       "size": 2807547
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.7+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
+      "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+      "size": 1870358
     }
   ]
 }
