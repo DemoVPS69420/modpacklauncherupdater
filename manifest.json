@@ -514,6 +514,12 @@
       "size": 6190,
       "once": true,
       "optional": true
+    },
+    {
+      "path": "mods/fabric-api-0.141.4+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5zJNhXV2/fabric-api-0.141.4%2B1.21.11.jar",
+      "sha1": "13d3885dfec40313e2b3bf9ee639353272b9b48a",
+      "size": 2413332
     }
   ]
 }
