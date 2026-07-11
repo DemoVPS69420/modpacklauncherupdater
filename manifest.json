@@ -532,6 +532,12 @@
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
       "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
       "size": 1870358
+    },
+    {
+      "path": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+      "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+      "size": 900462
     }
   ]
 }
