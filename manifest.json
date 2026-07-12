@@ -410,6 +410,12 @@
       "url": "https://cdn.modrinth.com/data/qi1sj2da/versions/OsMQkl4P/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
       "sha1": "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2",
       "size": 307751
+    },
+    {
+      "path": "mods/Stellarity-5.5.3.jar",
+      "url": "https://cdn.modrinth.com/data/bZgeDzN8/versions/x8HxAfxa/Stellarity-5.5.3.jar",
+      "sha1": "2bad64fd2b0e78d79c74bd4c8a72bfa77c083156",
+      "size": 8989067
     }
   ]
 }
