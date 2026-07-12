@@ -404,6 +404,12 @@
       "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
       "sha1": "544a8b340ac3918d85bcc7d02eaff5372814354b",
       "size": 1115809
+    },
+    {
+      "path": "mods/bobby-5.2.4.1+mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/M08ruV16/versions/a8r0n94h/bobby-5.2.4.1%2Bmc1.21.jar",
+      "sha1": "6f79364441347b59ccdfd224da5f894c0179330b",
+      "size": 863337
     }
   ]
 }
