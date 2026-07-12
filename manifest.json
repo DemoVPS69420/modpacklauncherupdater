@@ -410,6 +410,12 @@
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
       "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
       "size": 1148427
+    },
+    {
+      "path": "mods/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
+      "url": "https://cdn.modrinth.com/data/qi1sj2da/versions/OsMQkl4P/weaponmaster_ydm-fabric-1.21.11-4.4.4.jar",
+      "sha1": "e5232b315ae8e1e589a9f13ea90d6db5e5987bc2",
+      "size": 307751
     }
   ]
 }
