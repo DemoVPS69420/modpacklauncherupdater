@@ -392,6 +392,12 @@
       "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
       "sha1": "86515de45fe960bd717deea0954055106e857b81",
       "size": 75618
+    },
+    {
+      "path": "mods/placeholder-api-2.8.2+1.21.10.jar",
+      "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+      "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
+      "size": 268662
     }
   ]
 }
