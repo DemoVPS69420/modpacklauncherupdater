@@ -380,6 +380,12 @@
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar",
       "sha1": "43e451464f979bdf9ff4ac288b358a2f91b79ed8",
       "size": 302709
+    },
+    {
+      "path": "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/G94OTz7b/cwb-fabric-3.0.0-build.14%2Bmc1.21.11.jar",
+      "sha1": "51d97f5fba7b6a132976765e06f93e8f044d382c",
+      "size": 78535
     }
   ]
 }
