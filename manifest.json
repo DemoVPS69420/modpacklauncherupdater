@@ -356,6 +356,12 @@
       "url": "https://mediafilez.forgecdn.net/files/7899/847/decocraft-3.0.9-1.21.11-fabric.jar",
       "sha1": "afa7d67b84d4d4a2d9e69eaca51fd6a53aa1d274",
       "size": 94422371
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.11-2.6.20.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tiSyltLv/voicechat-fabric-1.21.11-2.6.20.jar",
+      "sha1": "c89ae178b319e83f1461368d2b93c917cd5ce578",
+      "size": 5583524
     }
   ]
 }
