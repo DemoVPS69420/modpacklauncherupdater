@@ -410,6 +410,12 @@
       "url": "https://cdn.modrinth.com/data/M08ruV16/versions/a8r0n94h/bobby-5.2.4.1%2Bmc1.21.jar",
       "sha1": "6f79364441347b59ccdfd224da5f894c0179330b",
       "size": 863337
+    },
+    {
+      "path": "mods/cloth-config-21.11.153-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+      "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+      "size": 1148427
     }
   ]
 }
