@@ -14,12 +14,6 @@
       "size": 99394269
     },
     {
-      "path": "resourcepacks/rp72.zip",
-      "url": "https://cdn.modrinth.com/data/o94eSDf0/versions/r9uJtloD/rp72.zip",
-      "sha1": "9a2921c7d98b286f861616782950e43f87b64a37",
-      "size": 32264958
-    },
-    {
       "path": "config/asyncparticles/asyncparticles-mixin.properties",
       "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@99f756c1af45136486712a9ffa89199ff7c9eb5f/overrides/config/asyncparticles/asyncparticles-mixin.properties",
       "sha1": "8b9e94deb8d889cdb182f3c5f5c5c780cc4e23c0",
