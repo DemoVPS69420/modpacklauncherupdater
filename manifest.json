@@ -362,6 +362,12 @@
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tiSyltLv/voicechat-fabric-1.21.11-2.6.20.jar",
       "sha1": "c89ae178b319e83f1461368d2b93c917cd5ce578",
       "size": 5583524
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+      "sha1": "f04c90b17094aaa849b147a42d4df9aa82d54ace",
+      "size": 203479
     }
   ]
 }
