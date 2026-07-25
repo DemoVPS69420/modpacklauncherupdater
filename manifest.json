@@ -410,6 +410,12 @@
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XhWdYnkC/voicechat-fabric-1.21.11-2.6.21.jar",
       "sha1": "4eed99e19a3f1bef0d7f4617a801effe93c37727",
       "size": 5586521
+    },
+    {
+      "path": "mods/modmenu-17.0.1-beta.1.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/j2vTurvl/modmenu-17.0.1-beta.1.jar",
+      "sha1": "3fdcb2b8ec85ebdab1c344f0eec19ddf37512ca1",
+      "size": 958351
     }
   ]
 }
