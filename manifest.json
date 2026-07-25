@@ -416,6 +416,12 @@
       "url": "https://cdn.modrinth.com/data/bZgeDzN8/versions/x8HxAfxa/Stellarity-5.5.3.jar",
       "sha1": "2bad64fd2b0e78d79c74bd4c8a72bfa77c083156",
       "size": 8989067
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.11-2.6.21.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XhWdYnkC/voicechat-fabric-1.21.11-2.6.21.jar",
+      "sha1": "4eed99e19a3f1bef0d7f4617a801effe93c37727",
+      "size": 5586521
     }
   ]
 }
