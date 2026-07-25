@@ -410,6 +410,12 @@
       "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/j2vTurvl/modmenu-17.0.1-beta.1.jar",
       "sha1": "3fdcb2b8ec85ebdab1c344f0eec19ddf37512ca1",
       "size": 958351
+    },
+    {
+      "path": "mods/fabric-api-0.141.5+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/zGF3drOQ/fabric-api-0.141.5%2B1.21.11.jar",
+      "sha1": "f56956fc14c6e1af380e80fce7e9cfd4db050eef",
+      "size": 2425434
     }
   ]
 }
