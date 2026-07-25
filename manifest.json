@@ -410,6 +410,12 @@
       "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/zGF3drOQ/fabric-api-0.141.5%2B1.21.11.jar",
       "sha1": "f56956fc14c6e1af380e80fce7e9cfd4db050eef",
       "size": 2425434
+    },
+    {
+      "path": "mods/Stellarity-5.5.4.jar",
+      "url": "https://cdn.modrinth.com/data/bZgeDzN8/versions/e7wFdNOX/Stellarity-5.5.4.jar",
+      "sha1": "80595aa11e1e849c778e52f602f2ecc4f01feee5",
+      "size": 8986749
     }
   ]
 }
