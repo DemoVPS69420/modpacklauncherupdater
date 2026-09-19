@@ -1,0 +1,10 @@
+{
+  "titanFearSystemEnabled": true,
+  "titanFearKillsForImmunity": 15,
+  "progressionSystemEnabled": true,
+  "dashEnabled": true,
+  "familyHeightEnabled": true,
+  "dashCooldownSeconds": 3.0,
+  "healingCooldownSeconds": 20.0,
+  "paradisChestLootEnabled": true
+}

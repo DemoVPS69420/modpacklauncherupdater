@@ -1,0 +1,176 @@
+{
+  "nodeCosts": {
+    "topic": {
+      "level1": 3,
+      "level2": 6,
+      "level3": 10
+    },
+    "gasAndOdm": {
+      "level1": 5,
+      "level2": 7,
+      "level3": 10
+    }
+  },
+  "bladeDurability": {
+    "normal": {
+      "maximumWear": 10,
+      "chipped1At": 2,
+      "chipped2At": 5,
+      "chipped3At": 8
+    },
+    "level1": {
+      "maximumWear": 25,
+      "chipped1At": 10,
+      "chipped2At": 15,
+      "chipped3At": 20
+    },
+    "level2": {
+      "maximumWear": 40,
+      "chipped1At": 20,
+      "chipped2At": 25,
+      "chipped3At": 30
+    },
+    "level3": {
+      "maximumWear": 55,
+      "chipped1At": 20,
+      "chipped2At": 30,
+      "chipped3At": 40
+    }
+  },
+  "swordDamage": {
+    "normal": {
+      "vanillaWeaponDamageBonus": 2.0,
+      "customBladeSwingDamage": 3.0,
+      "ogreOrTitanBloodlineSwingDamage": 12.0,
+      "pureTitanNapeHits": 4
+    },
+    "level1": {
+      "vanillaWeaponDamageBonus": 4.0,
+      "customBladeSwingDamage": 6.0,
+      "ogreOrTitanBloodlineSwingDamage": 24.0,
+      "pureTitanNapeHits": 3
+    },
+    "level2": {
+      "vanillaWeaponDamageBonus": 5.0,
+      "customBladeSwingDamage": 9.0,
+      "ogreOrTitanBloodlineSwingDamage": 36.0,
+      "pureTitanNapeHits": 2
+    },
+    "level3": {
+      "vanillaWeaponDamageBonus": 7.5,
+      "customBladeSwingDamage": 12.0,
+      "ogreOrTitanBloodlineSwingDamage": 48.0,
+      "pureTitanNapeHits": 1
+    }
+  },
+  "gas": {
+    "normal": {
+      "standardCapacity": 100,
+      "normalConsumptionEvery10Ticks": 5.0,
+      "boostConsumptionEvery10Ticks": 7.0
+    },
+    "level1": {
+      "standardCapacity": 250,
+      "normalConsumptionEvery10Ticks": 3.5,
+      "boostConsumptionEvery10Ticks": 5.0
+    },
+    "level2": {
+      "standardCapacity": 500,
+      "normalConsumptionEvery10Ticks": 1.0,
+      "boostConsumptionEvery10Ticks": 3.0
+    },
+    "level3": {
+      "standardCapacity": 750,
+      "normalConsumptionEvery10Ticks": 0.5,
+      "boostConsumptionEvery10Ticks": 1.0
+    }
+  },
+  "mobility": {
+    "normal": {
+      "basePullForce": 0.04,
+      "dualHookPullForce": 0.096,
+      "baseOrbitForce": 0.03,
+      "upwardLift": 0.02,
+      "fullyBoostedUpwardLift": 0.05,
+      "maximumHookDistance": 75.0
+    },
+    "level1": {
+      "basePullForce": 0.08,
+      "dualHookPullForce": 0.192,
+      "baseOrbitForce": 0.05,
+      "upwardLift": 0.035,
+      "fullyBoostedUpwardLift": 0.075,
+      "maximumHookDistance": 150.0
+    },
+    "level2": {
+      "basePullForce": 0.12,
+      "dualHookPullForce": 0.288,
+      "baseOrbitForce": 0.08,
+      "upwardLift": 0.05,
+      "fullyBoostedUpwardLift": 0.1,
+      "maximumHookDistance": 250.0
+    },
+    "level3": {
+      "basePullForce": 0.16,
+      "dualHookPullForce": 0.384,
+      "baseOrbitForce": 0.1,
+      "upwardLift": 0.075,
+      "fullyBoostedUpwardLift": 0.125,
+      "maximumHookDistance": 350.0
+    }
+  },
+  "gasAndOdm": {
+    "normal": {
+      "fullyBoostedDualHookPullForce": 0.114,
+      "fullyBoostedOrbitForce": 0.1
+    },
+    "level1": {
+      "fullyBoostedDualHookPullForce": 0.228,
+      "fullyBoostedOrbitForce": 0.2
+    },
+    "level2": {
+      "fullyBoostedDualHookPullForce": 0.432,
+      "fullyBoostedOrbitForce": 0.3
+    },
+    "level3": {
+      "fullyBoostedDualHookPullForce": 0.516,
+      "fullyBoostedOrbitForce": 0.4
+    }
+  },
+  "shifter": {
+    "normal": {
+      "maximumStaminaMultiplier": 0.3333333333333333,
+      "regenerationMultiplier": 0.3333333333333333,
+      "stateAndActionCostMultiplier": 2.0,
+      "transformationPercentagePointAdjustment": 15.0
+    },
+    "level1": {
+      "maximumStaminaMultiplier": 0.5,
+      "regenerationMultiplier": 0.5,
+      "stateAndActionCostMultiplier": 1.5,
+      "transformationPercentagePointAdjustment": 10.0
+    },
+    "level2": {
+      "maximumStaminaMultiplier": 1.0,
+      "regenerationMultiplier": 1.0,
+      "stateAndActionCostMultiplier": 1.0,
+      "transformationPercentagePointAdjustment": 0.0
+    },
+    "level3": {
+      "maximumStaminaMultiplier": 1.5,
+      "regenerationMultiplier": 1.5,
+      "stateAndActionCostMultiplier": 0.5,
+      "transformationPercentagePointAdjustment": -15.0
+    }
+  },
+  "odmTraversal": {
+    "minimumLandingHorizontalSpeed": 0.65,
+    "slideFrictionPerTick": 0.94,
+    "slideStopSpeed": 0.1,
+    "minimumWallRunHorizontalSpeed": 0.25,
+    "wallRunVerticalSpeed": 0.02,
+    "wallProbeDistance": 0.75,
+    "odmActivityGraceTicks": 20,
+    "maximumLandingCarrySpeed": 3.5
+  }
+}
