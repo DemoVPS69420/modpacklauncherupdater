@@ -647,7 +647,7 @@
     },
     {
       "path": "config/cristellib/supplementaries/structure_placement_config-had-error.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/cristellib/supplementaries/structure_placement_config-had-error.json5",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/cristellib/supplementaries/structure_placement_config-had-error.json5",
       "sha1": "8acf0fc73cfce1bae539fe5ba91388e49bbcb9e4",
       "size": 125,
       "once": true,
@@ -655,7 +655,7 @@
     },
     {
       "path": "config/springdaot/client_config.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/springdaot/client_config.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/springdaot/client_config.json",
       "sha1": "a84cb2ba4f9782ff25ab10df0729650042f47e55",
       "size": 36,
       "once": true,
@@ -663,7 +663,7 @@
     },
     {
       "path": "config/springdaot/family_attributes.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/springdaot/family_attributes.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/springdaot/family_attributes.json",
       "sha1": "c7470e00e0e6f09a7ba7e3bfd2c07c560e84c2e0",
       "size": 10433,
       "once": true,
@@ -671,7 +671,7 @@
     },
     {
       "path": "config/springdaot/server_config.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/springdaot/server_config.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/springdaot/server_config.json",
       "sha1": "e2ff8496b1c4e79a332abe87cee1a7cdc033423f",
       "size": 260,
       "once": true,
@@ -679,7 +679,7 @@
     },
     {
       "path": "config/springdaot/skill_progression.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/springdaot/skill_progression.json",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/springdaot/skill_progression.json",
       "sha1": "8a7eeb9e96386fea9b5ba8583bb1985b5565ba83",
       "size": 4445,
       "once": true,
@@ -687,7 +687,7 @@
     },
     {
       "path": "config/vanilla_structures/placement_structure_config-had-error.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/vanilla_structures/placement_structure_config-had-error.json5",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/vanilla_structures/placement_structure_config-had-error.json5",
       "sha1": "e594eee6eeacc95ee9d2ab5decbd2331b348e7b8",
       "size": 1690,
       "once": true,
@@ -695,7 +695,7 @@
     },
     {
       "path": "config/vanilla_structures/toggle_structure_config-had-error.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/vanilla_structures/toggle_structure_config-had-error.json5",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/vanilla_structures/toggle_structure_config-had-error.json5",
       "sha1": "92ec3d59938ce30acbd996f907a66ea66a28a66f",
       "size": 1423,
       "once": true,
@@ -703,7 +703,7 @@
     },
     {
       "path": "config/defaultoptions-common.toml.bak1",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/defaultoptions-common.toml.bak1",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/defaultoptions-common.toml.bak1",
       "sha1": "e913402a2156d4a21740eeff9696284b23828fea",
       "size": 333,
       "once": true,
@@ -711,7 +711,7 @@
     },
     {
       "path": "config/particular-common.toml",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/particular-common.toml",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/particular-common.toml",
       "sha1": "acc3ea3512acff37c3f750beeee9f26cca49ac33",
       "size": 5842,
       "once": true,
@@ -719,7 +719,7 @@
     },
     {
       "path": "config/stylisheffects-client-1.toml.bak",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/stylisheffects-client-1.toml.bak",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/stylisheffects-client-1.toml.bak",
       "sha1": "701f698ff59714e4a387f1046a0fdc6719ad79be",
       "size": 10542,
       "once": true,
@@ -727,7 +727,7 @@
     },
     {
       "path": "config/waystones-common.toml.bak2",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/config/waystones-common.toml.bak2",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/config/waystones-common.toml.bak2",
       "sha1": "9d32495f7b9b68654b761364b4c07fc3ea98df44",
       "size": 5577,
       "once": true,
@@ -735,127 +735,127 @@
     },
     {
       "path": "mods/betterchunkloading-fabric-1.21-5.5.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/betterchunkloading-fabric-1.21-5.5.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/betterchunkloading-fabric-1.21-5.5.jar",
       "sha1": "2aa0843bdceba1fe35c4e6e7aefb68c1361f8519",
       "size": 56044
     },
     {
       "path": "mods/chunksending-fabric-1.21-3.9.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/chunksending-fabric-1.21-3.9.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/chunksending-fabric-1.21-3.9.jar",
       "sha1": "fe1663428c661421812d05b1556c8c01ce6c4138",
       "size": 26919
     },
     {
       "path": "mods/clickadv-fabric-1.21-3.8.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/clickadv-fabric-1.21-3.8.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/clickadv-fabric-1.21-3.8.jar",
       "sha1": "f849ba77fbd3514a649f5c9e19b02dca4a2e0e5e",
       "size": 20129
     },
     {
       "path": "mods/configured-fabric-1.21.1-2.6.3.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/configured-fabric-1.21.1-2.6.3.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/configured-fabric-1.21.1-2.6.3.jar",
       "sha1": "7d1f43eb143c528e2431d8dcaf2e3007837ddf08",
       "size": 400642
     },
     {
       "path": "mods/connectivity-fabric-1.21-7.6.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/connectivity-fabric-1.21-7.6.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/connectivity-fabric-1.21-7.6.jar",
       "sha1": "62501d615a3d5192cc1675293fa78f6f11b5e7e9",
       "size": 198109
     },
     {
       "path": "mods/cupboard-fabric-1.21.1-4.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/cupboard-fabric-1.21.1-4.1.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/cupboard-fabric-1.21.1-4.1.jar",
       "sha1": "7fc35dc4f683229e1bb2e6c6f71b98b9a666b1c8",
       "size": 27371
     },
     {
       "path": "mods/darktimer-fabric-1.21-1.2.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/darktimer-fabric-1.21-1.2.1.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/darktimer-fabric-1.21-1.2.1.jar",
       "sha1": "0e5bb7c2d228a8742a5ad6d97d1384c8a42b52b5",
       "size": 9953
     },
     {
       "path": "mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
       "sha1": "9f27028ffa04c01a3ed9703b431677aabaf54398",
       "size": 681921
     },
     {
       "path": "mods/fastasyncworldsave-fabric-1.21-2.6.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/fastasyncworldsave-fabric-1.21-2.6.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/fastasyncworldsave-fabric-1.21-2.6.jar",
       "sha1": "c32deb932b794579fe88fdb30afaf3df9839f266",
       "size": 10448
     },
     {
       "path": "mods/ftb-essentials-fabric-2101.1.10.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/ftb-essentials-fabric-2101.1.10.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/ftb-essentials-fabric-2101.1.10.jar",
       "sha1": "92cc7924d80cac7e941e7fbb739f8fe12148fe68",
       "size": 215730
     },
     {
       "path": "mods/ftb-library-fabric-2101.1.36.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/ftb-library-fabric-2101.1.36.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/ftb-library-fabric-2101.1.36.jar",
       "sha1": "875514d88885d2dcb6d6c1af023ce0720667133f",
       "size": 1435284
     },
     {
       "path": "mods/ftb-ultimine-fabric-2101.1.15.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/ftb-ultimine-fabric-2101.1.15.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/ftb-ultimine-fabric-2101.1.15.jar",
       "sha1": "7b60cbf3c5320489b1b702bdbfc373deb39f5159",
       "size": 176926
     },
     {
       "path": "mods/gpumemleakfix-fabric-1.21-1.8.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/gpumemleakfix-fabric-1.21-1.8.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/gpumemleakfix-fabric-1.21-1.8.jar",
       "sha1": "416bca48280bbbb824e595d12fc694cc7488cfc4",
       "size": 6016
     },
     {
       "path": "mods/lootintegrations-fabric-1.21-4.7.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/lootintegrations-fabric-1.21-4.7.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/lootintegrations-fabric-1.21-4.7.jar",
       "sha1": "c49967152f302b18a1e0e2e556a729dee8b477b4",
       "size": 40212
     },
     {
       "path": "mods/memorysettings-fabric-1.21-6.0.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/memorysettings-fabric-1.21-6.0.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/memorysettings-fabric-1.21-6.0.jar",
       "sha1": "a0a39f35bbe7f348096288683892014b3dd66438",
       "size": 22622
     },
     {
       "path": "mods/MemorySweep-1.21.1-fabric-2.0.3-fix.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/MemorySweep-1.21.1-fabric-2.0.3-fix.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/MemorySweep-1.21.1-fabric-2.0.3-fix.jar",
       "sha1": "f81b2a3a2fb2a57fd240505d3911d72ed54a540c",
       "size": 24276
     },
     {
       "path": "mods/rhino-2101.2.7-build.85.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/rhino-2101.2.7-build.85.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/rhino-2101.2.7-build.85.jar",
       "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
       "size": 882075
     },
     {
       "path": "mods/smoothchunk-fabric-1.21-4.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/smoothchunk-fabric-1.21-4.1.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/smoothchunk-fabric-1.21-4.1.jar",
       "sha1": "b367bd9aa8709c09bb26662aeefd0d8bc871d3f5",
       "size": 13769
     },
     {
       "path": "mods/springdaot-3.3.0.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/springdaot-3.3.0.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/springdaot-3.3.0.jar",
       "sha1": "b38d1d5c112458a68d34e54b1a1fd0f659bcbe65",
       "size": 12215113
     },
     {
       "path": "mods/zergatul.freecam-2.3.1-fabric-1.21.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/mods/zergatul.freecam-2.3.1-fabric-1.21.jar",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/mods/zergatul.freecam-2.3.1-fabric-1.21.jar",
       "sha1": "a2509e85f7067ce296ccb5a1515b3106ebfc0349",
       "size": 64272
     },
     {
       "path": "resourcepacks/MandalasGUI+Dakmode_1.21.8_v3.1.zip",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@781e8d6063e3503cb9683bb02efea5cf0de4252b/overrides/resourcepacks/MandalasGUI%2BDakmode_1.21.8_v3.1.zip",
+      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@1c95aab8d17e4da26eac495000eac3edb3b94397/overrides/resourcepacks/MandalasGUI%2BDakmode_1.21.8_v3.1.zip",
       "sha1": "6475c078d1d306f5ec6eb84bb180d014168b8097",
       "size": 727474
     }
