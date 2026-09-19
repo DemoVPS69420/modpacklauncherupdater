@@ -11,631 +11,946 @@
       "path": "mods/AchievementOptimizer-fabric-1.21.1-2.1.0.jar",
       "url": "https://cdn.modrinth.com/data/SvXrP8rT/versions/cCzmNC5V/AchievementOptimizer-fabric-1.21.1-2.1.0.jar",
       "sha1": "e1fefc7197efe78722775b0c50c3257e13bac55e",
-      "size": 17210
+      "size": 17210,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e1fefc7197efe78722775b0c50c3257e13bac55e"
+      ]
     },
     {
       "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
       "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
-      "size": 283566
+      "size": 283566,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/1461d8e46391efd32a3085150e86094c9f6f5c9d"
+      ]
     },
     {
       "path": "mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
       "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/j80BmLRo/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
       "sha1": "f6c6193c8711340e52645b65dbb7ffde7fbf6f30",
-      "size": 100151
+      "size": 100151,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f6c6193c8711340e52645b65dbb7ffde7fbf6f30"
+      ]
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar",
       "sha1": "22442f5594bd537ab603cb36fba70363ebb7992a",
-      "size": 1810710
+      "size": 1810710,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/22442f5594bd537ab603cb36fba70363ebb7992a"
+      ]
     },
     {
       "path": "mods/BoatBreakFix-Universal-1.0.2.jar",
       "url": "https://cdn.modrinth.com/data/OVb8ZE5p/versions/Uf9jCC3m/BoatBreakFix-Universal-1.0.2.jar",
       "sha1": "f0bc583479532b7a83cded5ac86f0b3622c69558",
-      "size": 6866
+      "size": 6866,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f0bc583479532b7a83cded5ac86f0b3622c69558"
+      ]
     },
     {
       "path": "mods/CameraOverhaul-v2.1.1-fabric+mc[1.21-1.21.2].jar",
       "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/zDas2ZO2/CameraOverhaul-v2.1.1-fabric%2Bmc%5B1.21-1.21.2%5D.jar",
       "sha1": "f0e792877d95e092961bd91766d068796ab17034",
-      "size": 140021
+      "size": 140021,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f0e792877d95e092961bd91766d068796ab17034"
+      ]
     },
     {
       "path": "mods/Chunky-Fabric-1.4.23.jar",
       "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
       "sha1": "6c8098fc0f124c7b6492de60db0108747f7f9821",
-      "size": 342979
+      "size": 342979,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6c8098fc0f124c7b6492de60db0108747f7f9821"
+      ]
     },
     {
       "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
       "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar",
       "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
-      "size": 20723
+      "size": 20723,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/14628ba309d876cfefc4cef864a66ef12812066c"
+      ]
     },
     {
       "path": "mods/Controlling-fabric-1.21.1-19.0.5.jar",
       "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/hGJDoW2W/Controlling-fabric-1.21.1-19.0.5.jar",
       "sha1": "22d2407311298d0185b606aa1dd03ae33b98dff3",
-      "size": 83679
+      "size": 83679,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/22d2407311298d0185b606aa1dd03ae33b98dff3"
+      ]
     },
     {
       "path": "mods/Corgilib-Fabric-1.21.1-5.0.0.9.jar",
       "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/ltZXAkMW/Corgilib-Fabric-1.21.1-5.0.0.9.jar",
       "sha1": "f7e6fe57bda81780b0980645b11d64a7b8c921a6",
-      "size": 692956
+      "size": 692956,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f7e6fe57bda81780b0980645b11d64a7b8c921a6"
+      ]
     },
     {
       "path": "mods/CrashAssistant-fabric-1.20.2-1.21.4-1.11.12.jar",
       "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/AYajytbk/CrashAssistant-fabric-1.20.2-1.21.4-1.11.12.jar",
       "sha1": "77001af81df5b141198807cfbae7d0903dd4293a",
-      "size": 3493082
+      "size": 3493082,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/77001af81df5b141198807cfbae7d0903dd4293a"
+      ]
     },
     {
       "path": "mods/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wZEbqU3j/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
       "sha1": "bd27285e1d4c326dc60bd3ac97e70edf103b9bed",
-      "size": 1247692
+      "size": 1247692,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/bd27285e1d4c326dc60bd3ac97e70edf103b9bed"
+      ]
     },
     {
       "path": "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
       "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/7REwdnKp/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
       "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703",
-      "size": 2845602
+      "size": 2845602,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/bc902bd297c54d50b1ed7ffd2036464c970b0703"
+      ]
     },
     {
       "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
-      "size": 30207268
+      "size": 30207268,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/df25e8cfe06917963778723a1d9a60610dd21bec"
+      ]
     },
     {
       "path": "mods/EnhancedVisuals_FABRIC_v1.8.30_mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/gO7CGYSK/EnhancedVisuals_FABRIC_v1.8.30_mc1.21.1.jar",
       "sha1": "4174f569418d7fb32adc2134b4c064b7032891b3",
-      "size": 4736818
+      "size": 4736818,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/4174f569418d7fb32adc2134b4c064b7032891b3"
+      ]
     },
     {
       "path": "mods/ExplorersCompass-1.21.1-2.6.0-fabric.jar",
       "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/qSRKiE4D/ExplorersCompass-1.21.1-2.6.0-fabric.jar",
       "sha1": "cc3cf49a0ddb726e28af58d186145b027ea0adb5",
-      "size": 177481
+      "size": 177481,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/cc3cf49a0ddb726e28af58d186145b027ea0adb5"
+      ]
     },
     {
       "path": "mods/FastItemFrames-v21.1.6-1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/FsoeTIV0/versions/drSo3Q2h/FastItemFrames-v21.1.6-1.21.1-Fabric.jar",
       "sha1": "be6a84cfc3384d2a01e1dee8aeff345ffc78c307",
-      "size": 96210
+      "size": 96210,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/be6a84cfc3384d2a01e1dee8aeff345ffc78c307"
+      ]
     },
     {
       "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
-      "size": 633065
+      "size": 633065,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+      ]
     },
     {
       "path": "mods/ImmediatelyFast-Fabric-1.6.13+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/hZvFDqhH/ImmediatelyFast-Fabric-1.6.13%2B1.21.1.jar",
       "sha1": "b07b666b7ae2e62f8079ee60ef33f6fe4d545065",
-      "size": 337729
+      "size": 337729,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/b07b666b7ae2e62f8079ee60ef33f6fe4d545065"
+      ]
     },
     {
       "path": "mods/InvMove-0.9.3+1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/REfW2AEX/versions/nOwgsiRT/InvMove-0.9.3%2B1.21.1-Fabric.jar",
       "sha1": "87c3fc1519f31e17c6ad27b108a3a3304d52a5f9",
-      "size": 84035
+      "size": 84035,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/87c3fc1519f31e17c6ad27b108a3a3304d52a5f9"
+      ]
     },
     {
       "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
       "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar",
       "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
-      "size": 75984
+      "size": 75984,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/ee81af33a5606ef2cd057e075833d7c69836c210"
+      ]
     },
     {
       "path": "mods/OctoLib-FABRIC-0.6.2+1.21.jar",
       "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/Sj6w7O0I/OctoLib-FABRIC-0.6.2%2B1.21.jar",
       "sha1": "e18bf47209c43d2eff882fd906f2cafd887b7378",
-      "size": 543254
+      "size": 543254,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e18bf47209c43d2eff882fd906f2cafd887b7378"
+      ]
     },
     {
       "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar",
       "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3%2B1.14.4-1.21.jar",
       "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e",
-      "size": 555041
+      "size": 555041,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+      ]
     },
     {
       "path": "mods/PlayerAnimationLibFabric-1.1.6+mc.1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/tDcfU8FO/PlayerAnimationLibFabric-1.1.6%2Bmc.1.21.1.jar",
       "sha1": "f33384448a9d3271b77ba61d658dc90f40949578",
-      "size": 1154772
+      "size": 1154772,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f33384448a9d3271b77ba61d658dc90f40949578"
+      ]
     },
     {
       "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/Imj7cG2D/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar",
       "sha1": "c1cd667d699905c0ae6dcad6e2dacaed8fbc1605",
-      "size": 1499349
+      "size": 1499349,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/c1cd667d699905c0ae6dcad6e2dacaed8fbc1605"
+      ]
     },
     {
       "path": "mods/Resourcify (1.21.1-fabric)-1.8.6.jar",
       "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/nBgO8tui/Resourcify%20%281.21.1-fabric%29-1.8.6.jar",
       "sha1": "336479d7618e74d07ba692cfa27bf99af1375951",
-      "size": 2940312
+      "size": 2940312,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/336479d7618e74d07ba692cfa27bf99af1375951"
+      ]
     },
     {
       "path": "mods/Searchables-fabric-1.21.1-1.0.2.jar",
       "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tRdr8Bg3/Searchables-fabric-1.21.1-1.0.2.jar",
       "sha1": "2777db0b967e80e0659053154f32f14a0e99a7a7",
-      "size": 79531
+      "size": 79531,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2777db0b967e80e0659053154f32f14a0e99a7a7"
+      ]
     },
     {
       "path": "mods/StylishEffects-v21.1.3-1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/onDuQF5e/versions/gzAOEKEi/StylishEffects-v21.1.3-1.21.1-Fabric.jar",
       "sha1": "3b83834af18791b17423afaf60f6c0d8fad3f6ed",
-      "size": 113732
+      "size": 113732,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/3b83834af18791b17423afaf60f6c0d8fad3f6ed"
+      ]
     },
     {
       "path": "mods/SubtleEffects-fabric-1.21.1-1.14.3.jar",
       "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/kTWuRyXz/SubtleEffects-fabric-1.21.1-1.14.3.jar",
       "sha1": "bbd111b0e1d7dfd6addecf9a4ed18fd707665478",
-      "size": 3301460
+      "size": 3301460,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/bbd111b0e1d7dfd6addecf9a4ed18fd707665478"
+      ]
     },
     {
       "path": "mods/VisualKeys-0.0.8+1.21.jar",
       "url": "https://cdn.modrinth.com/data/HEds12HI/versions/xibnTcEJ/VisualKeys-0.0.8%2B1.21.jar",
       "sha1": "35870b1e43a70c672bce881d9bae83c4b457e768",
-      "size": 72818
+      "size": 72818,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/35870b1e43a70c672bce881d9bae83c4b457e768"
+      ]
     },
     {
       "path": "mods/VisualWorkbench-v21.1.2-1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/HyTKHqxd/VisualWorkbench-v21.1.2-1.21.1-Fabric.jar",
       "sha1": "5942f07bad473247692b28ce0e3dad46c8031fdc",
-      "size": 75226
+      "size": 75226,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/5942f07bad473247692b28ce0e3dad46c8031fdc"
+      ]
     },
     {
       "path": "mods/aaa_particles-fabric-1.21.1-2.2.3.jar",
       "url": "https://cdn.modrinth.com/data/En8uHTOK/versions/v93Kx3ly/aaa_particles-fabric-1.21.1-2.2.3.jar",
       "sha1": "87e5052d3e5ca5d6932f6a6c448ae010a694e97f",
-      "size": 5685280
+      "size": 5685280,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/87e5052d3e5ca5d6932f6a6c448ae010a694e97f"
+      ]
     },
     {
       "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar",
       "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
-      "size": 1082585
+      "size": 1082585,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/97452cfadfde1f8f8c67838643019eabafa58fbb"
+      ]
     },
     {
       "path": "mods/architectury-13.0.11-fabric.jar",
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Pzc2FP5K/architectury-13.0.11-fabric.jar",
       "sha1": "18200609d4c3571c4237b50884966f6fd82431ea",
-      "size": 600921
+      "size": 600921,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/18200609d4c3571c4237b50884966f6fd82431ea"
+      ]
     },
     {
       "path": "mods/attributefix-fabric-1.21.1-21.1.3.jar",
       "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/XwbErf6s/attributefix-fabric-1.21.1-21.1.3.jar",
       "sha1": "197b8331d3526b54f0deacc5ed80ea1f6f9edf94",
-      "size": 21590
+      "size": 21590,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/197b8331d3526b54f0deacc5ed80ea1f6f9edf94"
+      ]
     },
     {
       "path": "mods/balm-fabric-1.21.1-21.0.63.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/R6U3hZRZ/balm-fabric-1.21.1-21.0.63.jar",
       "sha1": "e6a6596688e23ca00e69249c26e316541a086ca2",
-      "size": 809717
+      "size": 809717,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e6a6596688e23ca00e69249c26e316541a086ca2"
+      ]
     },
     {
       "path": "mods/balm-fabric-1.21.1-21.0.65.jar",
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VynBiUHt/balm-fabric-1.21.1-21.0.65.jar",
       "sha1": "26d3c9bb16cee40bf76371680e248d2f9c7f4690",
-      "size": 806784
+      "size": 806784,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/26d3c9bb16cee40bf76371680e248d2f9c7f4690"
+      ]
     },
     {
       "path": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
       "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/kpkjWpa5/bookshelf-fabric-1.21.1-21.1.81.jar",
       "sha1": "c6cfd92af694102ee52ff1069f05804c75c0da7b",
-      "size": 330355
+      "size": 330355,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/c6cfd92af694102ee52ff1069f05804c75c0da7b"
+      ]
     },
     {
       "path": "mods/cerulean-fabric-1.0.0-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/dv57xmf9/versions/eVJq5HOt/cerulean-fabric-1.0.0-1.21.1.jar",
       "sha1": "eac4a453a6ac36f76ce40572a79797ed076f3e6e",
-      "size": 942206
+      "size": 942206,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/eac4a453a6ac36f76ce40572a79797ed076f3e6e"
+      ]
     },
     {
       "path": "mods/chat_heads-0.15.7-fabric-1.21.jar",
       "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5t3tM2L3/chat_heads-0.15.7-fabric-1.21.jar",
       "sha1": "5f37d428e0cc5ff08ed73a21ee11af0dde4105c2",
-      "size": 86944
+      "size": 86944,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/5f37d428e0cc5ff08ed73a21ee11af0dde4105c2"
+      ]
     },
     {
       "path": "mods/cloth-config-15.0.140-fabric.jar",
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
-      "size": 1157166
+      "size": 1157166,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/5d82342a2df53fd6df712bfdd583a811572918a4"
+      ]
     },
     {
       "path": "mods/collective-1.21.1-8.39.jar",
       "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/4XRlrKGN/collective-1.21.1-8.39.jar",
       "sha1": "b1153f03c97bccaa6bc11d6199f07f16ef4318ff",
-      "size": 1061931
+      "size": 1061931,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/b1153f03c97bccaa6bc11d6199f07f16ef4318ff"
+      ]
     },
     {
       "path": "mods/configurable-3.5.2+1.21.1-fabric.jar",
       "url": "https://cdn.modrinth.com/data/lGffrQ3O/versions/4IO3KqeL/configurable-3.5.2%2B1.21.1-fabric.jar",
       "sha1": "2c7302944b3dbdb7a20ebdba8425ccae52f7f46a",
-      "size": 545247
+      "size": 545247,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2c7302944b3dbdb7a20ebdba8425ccae52f7f46a"
+      ]
     },
     {
       "path": "mods/coroutil-fabric-1.21.1-1.3.8.jar",
       "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/U0NUocji/coroutil-fabric-1.21.1-1.3.8.jar",
       "sha1": "1bb71c0df6959b06915d6d62b8040aa0892f08ae",
-      "size": 2956258
+      "size": 2956258,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/1bb71c0df6959b06915d6d62b8040aa0892f08ae"
+      ]
     },
     {
       "path": "mods/cosmeticarmorreworkedforked-fabric-1.21.1-0.0.4.jar",
       "url": "https://cdn.modrinth.com/data/6cpT8CUC/versions/Opxo4B2b/cosmeticarmorreworkedforked-fabric-1.21.1-0.0.4.jar",
       "sha1": "a90c4092ed5a65e808013675c59eeaeb4c791ed6",
-      "size": 101631
+      "size": 101631,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a90c4092ed5a65e808013675c59eeaeb4c791ed6"
+      ]
     },
     {
       "path": "mods/crashexploitfixer-fabric-2.0.0+1.21.4.jar",
       "url": "https://cdn.modrinth.com/data/Z5GdSH3X/versions/8z12PQd0/crashexploitfixer-fabric-2.0.0%2B1.21.4.jar",
       "sha1": "bc31824ede0afe161b3fd64393379169cb8bf9b5",
-      "size": 699474
+      "size": 699474,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/bc31824ede0afe161b3fd64393379169cb8bf9b5"
+      ]
     },
     {
       "path": "mods/cristellib-fabric-1.21.1-3.1.7.jar",
       "url": "https://cdn.modrinth.com/data/cl223EMc/versions/K1dyr5gj/cristellib-fabric-1.21.1-3.1.7.jar",
       "sha1": "4f966c3efd6ecfe679aac64ba7c6f4d4a648ad5b",
-      "size": 584853
+      "size": 584853,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/4f966c3efd6ecfe679aac64ba7c6f4d4a648ad5b"
+      ]
     },
     {
       "path": "mods/dannys-aot-2.4.3.jar",
       "url": "https://cdn.modrinth.com/data/7x3oDLDY/versions/p2GQ0M4J/dannys-aot-2.4.3.jar",
       "sha1": "d60b3b29d3101378f68218100b7efe4880b52d87",
-      "size": 45323187
+      "size": 45323187,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/d60b3b29d3101378f68218100b7efe4880b52d87"
+      ]
     },
     {
       "path": "mods/defaultoptions-fabric-1.21.1-21.1.8.jar",
       "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/54JaBQkk/defaultoptions-fabric-1.21.1-21.1.8.jar",
       "sha1": "574138c968a955915cf6ee8def3fa0fdfb74eeca",
-      "size": 107949
+      "size": 107949,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/574138c968a955915cf6ee8def3fa0fdfb74eeca"
+      ]
     },
     {
       "path": "mods/despawntweaks-fabric-1.0.0-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/ahQrpeXp/versions/DhT841V9/despawntweaks-fabric-1.0.0-1.21.1.jar",
       "sha1": "0e2e98db601f3e02df3b54215e05533817b54619",
-      "size": 1059167
+      "size": 1059167,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0e2e98db601f3e02df3b54215e05533817b54619"
+      ]
     },
     {
       "path": "mods/dummmmmmy-1.21-2.1.1-fabric.jar",
       "url": "https://cdn.modrinth.com/data/Adega8YN/versions/mYjh0FSZ/dummmmmmy-1.21-2.1.1-fabric.jar",
       "sha1": "af9b102a653258240bce368384e0fc85a35bf4fd",
-      "size": 216010
+      "size": 216010,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/af9b102a653258240bce368384e0fc85a35bf4fd"
+      ]
     },
     {
       "path": "mods/emi-1.1.24+1.21.1+fabric.jar",
       "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
       "sha1": "6abcf2a10a629e401bff73a8fd1ad328a72b1482",
-      "size": 1098223
+      "size": 1098223,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6abcf2a10a629e401bff73a8fd1ad328a72b1482"
+      ]
     },
     {
       "path": "mods/emi_enchanting-0.1.2+1.21.jar",
       "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/ld2zsfK3/emi_enchanting-0.1.2%2B1.21.jar",
       "sha1": "a12a5e135cecd73b7dc13a5bf92fc526385a1136",
-      "size": 15210
+      "size": 15210,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a12a5e135cecd73b7dc13a5bf92fc526385a1136"
+      ]
     },
     {
       "path": "mods/emi_loot-0.7.9+1.21+fabric.jar",
       "url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/6uDAJNif/emi_loot-0.7.9%2B1.21%2Bfabric.jar",
       "sha1": "ff33446165a1b3d67d105e1d0733e285654a8a7a",
-      "size": 456756
+      "size": 456756,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/ff33446165a1b3d67d105e1d0733e285654a8a7a"
+      ]
     },
     {
       "path": "mods/entityculling-fabric-1.10.5-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar",
       "sha1": "7e8c9c44049e6575e75d1fe38d6006306b8d5623",
-      "size": 1595131
+      "size": 1595131,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/7e8c9c44049e6575e75d1fe38d6006306b8d5623"
+      ]
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar",
       "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
-      "size": 2452735
+      "size": 2452735,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/810b2b0195371a012906241d8b85a32a1d6de53c"
+      ]
     },
     {
       "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
       "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
       "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
-      "size": 8142858
+      "size": 8142858,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/62ae40a31b689b52fde399f2143d547a631e942c"
+      ]
     },
     {
       "path": "mods/fastpaintings-1.21-1.3.0-fabric.jar",
       "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/gv8Py8iO/fastpaintings-1.21-1.3.0-fabric.jar",
       "sha1": "fecb10083d10d2933c6f6e9df1407d8927f9a8e7",
-      "size": 155624
+      "size": 155624,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/fecb10083d10d2933c6f6e9df1407d8927f9a8e7"
+      ]
     },
     {
       "path": "mods/fusion-1.3.15a-fabric-mc1.21.jar",
       "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/dfzgw8H8/fusion-1.3.15a-fabric-mc1.21.jar",
       "sha1": "6ecee3c3ad13c237f22dc839a2efafcfb7ddceea",
-      "size": 913490
+      "size": 913490,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6ecee3c3ad13c237f22dc839a2efafcfb7ddceea"
+      ]
     },
     {
       "path": "mods/fzzy_config-0.7.6+1.21.jar",
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/kOmySYD4/fzzy_config-0.7.6%2B1.21.jar",
       "sha1": "cff21f254e911a323fe49015d12e548d3e3b8d7c",
-      "size": 2365335
+      "size": 2365335,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/cff21f254e911a323fe49015d12e548d3e3b8d7c"
+      ]
     },
     {
       "path": "mods/gamerule-menu-0.9.0.jar",
       "url": "https://cdn.modrinth.com/data/Qnedopdv/versions/5iIQ8Xsb/gamerule-menu-0.9.0.jar",
       "sha1": "ea5847e13a222259b09106fd73a805d18bf37ec0",
-      "size": 181992
+      "size": 181992,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/ea5847e13a222259b09106fd73a805d18bf37ec0"
+      ]
     },
     {
       "path": "mods/gamerulesmod-1.0.0+1.21.jar",
       "url": "https://cdn.modrinth.com/data/koSbrDFL/versions/OANFVNk0/gamerulesmod-1.0.0%2B1.21.jar",
       "sha1": "cf71fee26969e58b1e79728bfcaaea0ea0e918cc",
-      "size": 385229
+      "size": 385229,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/cf71fee26969e58b1e79728bfcaaea0ea0e918cc"
+      ]
     },
     {
       "path": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/dnJdtm0u/geckolib-fabric-1.21.1-4.9.2.jar",
       "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46",
-      "size": 660416
+      "size": 660416,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/b95b1d631baeada54c6773ca8f6ede40d57fea46"
+      ]
     },
     {
       "path": "mods/iChunUtil-1.21-Fabric-1.0.3.jar",
       "url": "https://cdn.modrinth.com/data/W6ROj0Hl/versions/gfAOoiwe/iChunUtil-1.21-Fabric-1.0.3.jar",
       "sha1": "a47cac07d5606482b93d94b8a484ddeb24fbc669",
-      "size": 706352
+      "size": 706352,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a47cac07d5606482b93d94b8a484ddeb24fbc669"
+      ]
     },
     {
       "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
       "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
-      "size": 2690177
+      "size": 2690177,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/4e0df4011503b4b36ba69877ea7247c1a47fea00"
+      ]
     },
     {
       "path": "mods/memoryusagetitle-fabric-1.0.1.jar",
       "url": "https://cdn.modrinth.com/data/YvaL4yx6/versions/XPPqn7mZ/memoryusagetitle-fabric-1.0.1.jar",
       "sha1": "dc94dfc07667ddf7648ae753ed85884e6a5d9654",
-      "size": 131963
+      "size": 131963,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/dc94dfc07667ddf7648ae753ed85884e6a5d9654"
+      ]
     },
     {
       "path": "mods/midnightlib-fabric-1.9.3+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/codAaoxh/versions/as2ZKoB1/midnightlib-fabric-1.9.3%2B1.21.1.jar",
       "sha1": "6595a90351e827b99b36fa2c6ef1dde1a4c8fdf1",
-      "size": 58781
+      "size": 58781,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6595a90351e827b99b36fa2c6ef1dde1a4c8fdf1"
+      ]
     },
     {
       "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
       "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
-      "size": 471258
+      "size": 471258,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/4ab39e9c736e7204146792c545ec5b29fc0a3872"
+      ]
     },
     {
       "path": "mods/modmenu-11.0.4.jar",
       "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
       "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
-      "size": 973059
+      "size": 973059,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a"
+      ]
     },
     {
       "path": "mods/moonlight-1.21.1-3.6.4-fabric.jar",
       "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/MynlD3i3/moonlight-1.21.1-3.6.4-fabric.jar",
       "sha1": "af31d2058b4d83342a89eb1bc4ba62b589b745a2",
-      "size": 2256483
+      "size": 2256483,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/af31d2058b4d83342a89eb1bc4ba62b589b745a2"
+      ]
     },
     {
       "path": "mods/neruina-3.3.3+1.21.1-fabric.jar",
       "url": "https://cdn.modrinth.com/data/1s5x833P/versions/S3RKG9zF/neruina-3.3.3%2B1.21.1-fabric.jar",
       "sha1": "33cfda42d642db4854c3617b75f511669ff43d6b",
-      "size": 860092
+      "size": 860092,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/33cfda42d642db4854c3617b75f511669ff43d6b"
+      ]
     },
     {
       "path": "mods/nicer-skies-1.4.2+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/gsJ6q45e/versions/YMGPhcbn/nicer-skies-1.4.2%2B1.21.1.jar",
       "sha1": "0bc3e48c6115ce2cde631046cc422ecf5b175013",
-      "size": 187170
+      "size": 187170,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0bc3e48c6115ce2cde631046cc422ecf5b175013"
+      ]
     },
     {
       "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/HyecdWuC/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
       "sha1": "96c0939713956165b31bb65d8416770a21ea52ef",
-      "size": 1948132
+      "size": 1948132,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/96c0939713956165b31bb65d8416770a21ea52ef"
+      ]
     },
     {
       "path": "mods/owo-lib-0.12.15.4+1.21.jar",
       "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
       "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
-      "size": 1183559
+      "size": 1183559,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/45725e6d33b624e565a7a6e5d3627af40814288d"
+      ]
     },
     {
       "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
-      "size": 46623
+      "size": 46623,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a8bb6e25807682e72c23bf4065f3cd5f6373ece3"
+      ]
     },
     {
       "path": "mods/particle_core-0.3.3+1.21.jar",
       "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/mau4pnKr/particle_core-0.3.3%2B1.21.jar",
       "sha1": "21134697c26b73cde41d1575c725ab30736d6b17",
-      "size": 147812
+      "size": 147812,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/21134697c26b73cde41d1575c725ab30736d6b17"
+      ]
     },
     {
       "path": "mods/particular-1.21.1-Fabric-1.5.7.jar",
       "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/7HcxmnFS/particular-1.21.1-Fabric-1.5.7.jar",
       "sha1": "e2bb1ab8c973303fa0a40a636b33a645dcc87b24",
-      "size": 285956
+      "size": 285956,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e2bb1ab8c973303fa0a40a636b33a645dcc87b24"
+      ]
     },
     {
       "path": "mods/placeholder-api-2.4.2+1.21.jar",
       "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
       "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
-      "size": 232325
+      "size": 232325,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+      ]
     },
     {
       "path": "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar",
       "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490",
-      "size": 204541
+      "size": 204541,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2985c208766cde078a39c22b5ad989b74b7bc490"
+      ]
     },
     {
       "path": "mods/prickle-fabric-1.21.1-21.1.11.jar",
       "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Ef7P6Rb7/prickle-fabric-1.21.1-21.1.11.jar",
       "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2",
-      "size": 87229
+      "size": 87229,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6d6032880be3b6469c5615fd2ea160bf5eb93ac2"
+      ]
     },
     {
       "path": "mods/redirected-fabric-1.0.0-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/hhnR8xqU/versions/9G5lyDuT/redirected-fabric-1.0.0-1.21.1.jar",
       "sha1": "011d12caee56de47fa3f89b84c8d19461a123c2c",
-      "size": 213687
+      "size": 213687,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/011d12caee56de47fa3f89b84c8d19461a123c2c"
+      ]
     },
     {
       "path": "mods/reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/jDOK2MQs/reeses-sodium-options-fabric-2.2.3%2Bmc1.21.1.jar",
       "sha1": "aca62b29c1b2a9ec73f321aceeeceaeaaec53744",
-      "size": 259211
+      "size": 259211,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/aca62b29c1b2a9ec73f321aceeeceaeaaec53744"
+      ]
     },
     {
       "path": "mods/resourcefulconfig-fabric-1.21-3.0.11.jar",
       "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/dQh99ERC/resourcefulconfig-fabric-1.21-3.0.11.jar",
       "sha1": "f6a0df7cf464d1c94458ef075bead82033add9c9",
-      "size": 345396
+      "size": 345396,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f6a0df7cf464d1c94458ef075bead82033add9c9"
+      ]
     },
     {
       "path": "mods/servercore-fabric-1.5.19+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/GQ2a51Rl/servercore-fabric-1.5.19%2B1.21.1.jar",
       "sha1": "a6982d25211a307416c6c050e41b087306caf6e8",
-      "size": 897353
+      "size": 897353,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a6982d25211a307416c6c050e41b087306caf6e8"
+      ]
     },
     {
       "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1",
-      "size": 1574609
+      "size": 1574609,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/003c114c85ca88ef3362e018deb6aca0c682d6a1"
+      ]
     },
     {
       "path": "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/RR1lyQmh/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
       "sha1": "ca8c29ad2481ab5fe81095181541d183fa7faf19",
-      "size": 903592
+      "size": 903592,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/ca8c29ad2481ab5fe81095181541d183fa7faf19"
+      ]
     },
     {
       "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
       "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/m3KTcqdE/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
       "sha1": "7b43408bb1a8c55ca2c99b9b55d0a085068c8048",
-      "size": 202561
+      "size": 202561,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/7b43408bb1a8c55ca2c99b9b55d0a085068c8048"
+      ]
     },
     {
       "path": "mods/spark-1.10.109-fabric.jar",
       "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
       "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
-      "size": 3609981
+      "size": 3609981,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/eff42cbeee6fe9a7f3c57031c23200256366dcd1"
+      ]
     },
     {
       "path": "mods/staaaaaaaaaaaack-fabric-1.21.1-1.8.jar",
       "url": "https://cdn.modrinth.com/data/myL7fuqp/versions/cEmmjoce/staaaaaaaaaaaack-fabric-1.21.1-1.8.jar",
       "sha1": "8906a06bec4e6a8b5db3e7f38b32214dc235283e",
-      "size": 244521
+      "size": 244521,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/8906a06bec4e6a8b5db3e7f38b32214dc235283e"
+      ]
     },
     {
       "path": "mods/structure_layout_optimizer-fabric-1.0.12.jar",
       "url": "https://cdn.modrinth.com/data/ayPU0OHc/versions/522Wudew/structure_layout_optimizer-fabric-1.0.12.jar",
       "sha1": "2ca2f8650794b271d439fc8cb703ed85f1fde068",
-      "size": 62580
+      "size": 62580,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2ca2f8650794b271d439fc8cb703ed85f1fde068"
+      ]
     },
     {
       "path": "mods/supplementaries-1.21.1-3.9.9-fabric.jar",
       "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/h8FyJ2as/supplementaries-1.21.1-3.9.9-fabric.jar",
       "sha1": "0f3a3e04c59752f96460880f2b5d8e4c810e973a",
-      "size": 13376224
+      "size": 13376224,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0f3a3e04c59752f96460880f2b5d8e4c810e973a"
+      ]
     },
     {
       "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/98FHAlrc/txnilib-fabric-1.0.24-1.21.1.jar",
       "sha1": "95bd43012b414ce13efaba4b2fbd73dcd8951775",
-      "size": 1303092
+      "size": 1303092,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/95bd43012b414ce13efaba4b2fbd73dcd8951775"
+      ]
     },
     {
       "path": "mods/vanillin-fabric-1.21.1-1.1.3.jar",
       "url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/JvVNmEal/vanillin-fabric-1.21.1-1.1.3.jar",
       "sha1": "af4f8fd13c90d14e8355ce1e38844320ad62f036",
-      "size": 872000
+      "size": 872000,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/af4f8fd13c90d14e8355ce1e38844320ad62f036"
+      ]
     },
     {
       "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
       "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
-      "size": 5369475
+      "size": 5369475,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2b3f229ed746955b756807a92e09e9a32d636776"
+      ]
     },
     {
       "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
       "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/iHAQTK0N/watut-fabric-1.21.0-1.2.7.jar",
       "sha1": "31d06c335b9a3a9fd649e8f4518aaf5a65630f57",
-      "size": 839492
+      "size": 839492,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/31d06c335b9a3a9fd649e8f4518aaf5a65630f57"
+      ]
     },
     {
       "path": "mods/waystones-fabric-1.21.1-21.1.45.jar",
       "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/kcpLmG41/waystones-fabric-1.21.1-21.1.45.jar",
       "sha1": "1ffd74658cdfb000e4fe1a90b55d6c1bfd37b644",
-      "size": 1245242
+      "size": 1245242,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/1ffd74658cdfb000e4fe1a90b55d6c1bfd37b644"
+      ]
     },
     {
       "path": "mods/worldedit-mod-7.3.8.jar",
       "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
-      "size": 6222854
+      "size": 6222854,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/924fe181a29bd66be6783f6d589968ab0ee02250"
+      ]
     },
     {
       "path": "mods/xaerominimap-fabric-1.21.1-26.5.0.jar",
       "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ZD6hK4GV/xaerominimap-fabric-1.21.1-26.5.0.jar",
       "sha1": "b9cec1acb286b6d7c05759c0c1e4b8a04f28d785",
-      "size": 2233763
+      "size": 2233763,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/b9cec1acb286b6d7c05759c0c1e4b8a04f28d785"
+      ]
     },
     {
       "path": "mods/xaeroworldmap-fabric-1.21.1-1.46.0.jar",
       "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/txl9KURC/xaeroworldmap-fabric-1.21.1-1.46.0.jar",
       "sha1": "532942aff4536c46cd66d0b8fea2964740562319",
-      "size": 1451734
+      "size": 1451734,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/532942aff4536c46cd66d0b8fea2964740562319"
+      ]
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
       "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
-      "size": 1131265
+      "size": 1131265,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e075503382f70715ab9fc6f66d603397a86eb3e0"
+      ]
     },
     {
       "path": "resourcepacks/Anime Icons Xaero's v6.zip",
       "url": "https://cdn.modrinth.com/data/fqRU6PJk/versions/84TkK6oc/Anime%20Icons%20Xaero%27s%20v6.zip",
       "sha1": "783a253661395f5b4e3b2dab05981bf6ee1341ba",
-      "size": 2534385
+      "size": 2534385,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/783a253661395f5b4e3b2dab05981bf6ee1341ba"
+      ]
     },
     {
       "path": "resourcepacks/Excalibur_V26.1_01.zip",
       "url": "https://cdn.modrinth.com/data/hJAzl1Bs/versions/ScfKVGaF/Excalibur_V26.1_01.zip",
       "sha1": "f14f03d76c48e6c99a02ccefff0070c4fe3f110b",
-      "size": 20513069
+      "size": 20513069,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f14f03d76c48e6c99a02ccefff0070c4fe3f110b"
+      ]
     },
     {
       "path": "resourcepacks/Fast Better Grass.zip",
       "url": "https://cdn.modrinth.com/data/dspVZXKP/versions/U9zNcnWW/Fast%20Better%20Grass.zip",
       "sha1": "3a344f8e36a2e748f11dce1c246b5c6ce91141f1",
-      "size": 10928
+      "size": 10928,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/3a344f8e36a2e748f11dce1c246b5c6ce91141f1"
+      ]
     },
     {
       "path": "resourcepacks/Icons v.1.13.4.zip",
       "url": "https://cdn.modrinth.com/data/O7z3QKAG/versions/RNni6iXH/Icons%20v.1.13.4.zip",
       "sha1": "6b3eddcace8c82bf95d96c57d0d633058631f46e",
-      "size": 8733356
+      "size": 8733356,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6b3eddcace8c82bf95d96c57d0d633058631f46e"
+      ]
     },
     {
       "path": "resourcepacks/LowOnFire 1.21.3.zip",
       "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/QL8e10aI/LowOnFire%201.21.3.zip",
       "sha1": "3426c1294546feae83b09b276aeab2e7ca201484",
-      "size": 41582
+      "size": 41582,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/3426c1294546feae83b09b276aeab2e7ca201484"
+      ]
     },
     {
       "path": "texturepacks/Excalibur_V26.3.zip",
@@ -643,221 +958,320 @@
       "sha1": "a4fff810b348e49a9dc4c569c1fa8ceb195787b8",
       "size": 20771067,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a4fff810b348e49a9dc4c569c1fa8ceb195787b8"
+      ]
     },
     {
       "path": "config/cristellib/supplementaries/structure_placement_config-had-error.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/cristellib/supplementaries/structure_placement_config-had-error.json5",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/cristellib/supplementaries/structure_placement_config-had-error.json5",
       "sha1": "8acf0fc73cfce1bae539fe5ba91388e49bbcb9e4",
       "size": 125,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/8acf0fc73cfce1bae539fe5ba91388e49bbcb9e4"
+      ]
     },
     {
       "path": "config/springdaot/client_config.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/client_config.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/client_config.json",
       "sha1": "a84cb2ba4f9782ff25ab10df0729650042f47e55",
       "size": 36,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a84cb2ba4f9782ff25ab10df0729650042f47e55"
+      ]
     },
     {
       "path": "config/springdaot/family_attributes.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/family_attributes.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/family_attributes.json",
       "sha1": "c7470e00e0e6f09a7ba7e3bfd2c07c560e84c2e0",
       "size": 10433,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/c7470e00e0e6f09a7ba7e3bfd2c07c560e84c2e0"
+      ]
     },
     {
       "path": "config/springdaot/server_config.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/server_config.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/server_config.json",
       "sha1": "e2ff8496b1c4e79a332abe87cee1a7cdc033423f",
       "size": 260,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e2ff8496b1c4e79a332abe87cee1a7cdc033423f"
+      ]
     },
     {
       "path": "config/springdaot/skill_progression.json",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/skill_progression.json",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/springdaot/skill_progression.json",
       "sha1": "8a7eeb9e96386fea9b5ba8583bb1985b5565ba83",
       "size": 4445,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/8a7eeb9e96386fea9b5ba8583bb1985b5565ba83"
+      ]
     },
     {
       "path": "config/vanilla_structures/placement_structure_config-had-error.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/vanilla_structures/placement_structure_config-had-error.json5",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/vanilla_structures/placement_structure_config-had-error.json5",
       "sha1": "e594eee6eeacc95ee9d2ab5decbd2331b348e7b8",
       "size": 1690,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e594eee6eeacc95ee9d2ab5decbd2331b348e7b8"
+      ]
     },
     {
       "path": "config/vanilla_structures/toggle_structure_config-had-error.json5",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/vanilla_structures/toggle_structure_config-had-error.json5",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/vanilla_structures/toggle_structure_config-had-error.json5",
       "sha1": "92ec3d59938ce30acbd996f907a66ea66a28a66f",
       "size": 1423,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/92ec3d59938ce30acbd996f907a66ea66a28a66f"
+      ]
     },
     {
       "path": "config/defaultoptions-common.toml.bak1",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/defaultoptions-common.toml.bak1",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/defaultoptions-common.toml.bak1",
       "sha1": "e913402a2156d4a21740eeff9696284b23828fea",
       "size": 333,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e913402a2156d4a21740eeff9696284b23828fea"
+      ]
     },
     {
       "path": "config/particular-common.toml",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/particular-common.toml",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/particular-common.toml",
       "sha1": "acc3ea3512acff37c3f750beeee9f26cca49ac33",
       "size": 5842,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/acc3ea3512acff37c3f750beeee9f26cca49ac33"
+      ]
     },
     {
       "path": "config/stylisheffects-client-1.toml.bak",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/stylisheffects-client-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/stylisheffects-client-1.toml.bak",
       "sha1": "701f698ff59714e4a387f1046a0fdc6719ad79be",
       "size": 10542,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/701f698ff59714e4a387f1046a0fdc6719ad79be"
+      ]
     },
     {
       "path": "config/waystones-common.toml.bak2",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/waystones-common.toml.bak2",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/config/waystones-common.toml.bak2",
       "sha1": "9d32495f7b9b68654b761364b4c07fc3ea98df44",
       "size": 5577,
       "once": true,
-      "optional": true
+      "optional": true,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/9d32495f7b9b68654b761364b4c07fc3ea98df44"
+      ]
     },
     {
       "path": "mods/betterchunkloading-fabric-1.21-5.5.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/betterchunkloading-fabric-1.21-5.5.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/betterchunkloading-fabric-1.21-5.5.jar",
       "sha1": "2aa0843bdceba1fe35c4e6e7aefb68c1361f8519",
-      "size": 56044
+      "size": 56044,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2aa0843bdceba1fe35c4e6e7aefb68c1361f8519"
+      ]
     },
     {
       "path": "mods/chunksending-fabric-1.21-3.9.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/chunksending-fabric-1.21-3.9.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/chunksending-fabric-1.21-3.9.jar",
       "sha1": "fe1663428c661421812d05b1556c8c01ce6c4138",
-      "size": 26919
+      "size": 26919,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/fe1663428c661421812d05b1556c8c01ce6c4138"
+      ]
     },
     {
       "path": "mods/clickadv-fabric-1.21-3.8.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/clickadv-fabric-1.21-3.8.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/clickadv-fabric-1.21-3.8.jar",
       "sha1": "f849ba77fbd3514a649f5c9e19b02dca4a2e0e5e",
-      "size": 20129
+      "size": 20129,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f849ba77fbd3514a649f5c9e19b02dca4a2e0e5e"
+      ]
     },
     {
       "path": "mods/configured-fabric-1.21.1-2.6.3.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/configured-fabric-1.21.1-2.6.3.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/configured-fabric-1.21.1-2.6.3.jar",
       "sha1": "7d1f43eb143c528e2431d8dcaf2e3007837ddf08",
-      "size": 400642
+      "size": 400642,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/7d1f43eb143c528e2431d8dcaf2e3007837ddf08"
+      ]
     },
     {
       "path": "mods/connectivity-fabric-1.21-7.6.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/connectivity-fabric-1.21-7.6.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/connectivity-fabric-1.21-7.6.jar",
       "sha1": "62501d615a3d5192cc1675293fa78f6f11b5e7e9",
-      "size": 198109
+      "size": 198109,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/62501d615a3d5192cc1675293fa78f6f11b5e7e9"
+      ]
     },
     {
       "path": "mods/cupboard-fabric-1.21.1-4.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/cupboard-fabric-1.21.1-4.1.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/cupboard-fabric-1.21.1-4.1.jar",
       "sha1": "7fc35dc4f683229e1bb2e6c6f71b98b9a666b1c8",
-      "size": 27371
+      "size": 27371,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/7fc35dc4f683229e1bb2e6c6f71b98b9a666b1c8"
+      ]
     },
     {
       "path": "mods/darktimer-fabric-1.21-1.2.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/darktimer-fabric-1.21-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/darktimer-fabric-1.21-1.2.1.jar",
       "sha1": "0e5bb7c2d228a8742a5ad6d97d1384c8a42b52b5",
-      "size": 9953
+      "size": 9953,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0e5bb7c2d228a8742a5ad6d97d1384c8a42b52b5"
+      ]
     },
     {
       "path": "mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
       "sha1": "9f27028ffa04c01a3ed9703b431677aabaf54398",
-      "size": 681921
+      "size": 681921,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/9f27028ffa04c01a3ed9703b431677aabaf54398"
+      ]
     },
     {
       "path": "mods/fastasyncworldsave-fabric-1.21-2.6.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/fastasyncworldsave-fabric-1.21-2.6.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/fastasyncworldsave-fabric-1.21-2.6.jar",
       "sha1": "c32deb932b794579fe88fdb30afaf3df9839f266",
-      "size": 10448
+      "size": 10448,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/c32deb932b794579fe88fdb30afaf3df9839f266"
+      ]
     },
     {
       "path": "mods/ftb-essentials-fabric-2101.1.10.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/ftb-essentials-fabric-2101.1.10.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/ftb-essentials-fabric-2101.1.10.jar",
       "sha1": "92cc7924d80cac7e941e7fbb739f8fe12148fe68",
-      "size": 215730
+      "size": 215730,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/92cc7924d80cac7e941e7fbb739f8fe12148fe68"
+      ]
     },
     {
       "path": "mods/ftb-library-fabric-2101.1.36.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/ftb-library-fabric-2101.1.36.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/ftb-library-fabric-2101.1.36.jar",
       "sha1": "875514d88885d2dcb6d6c1af023ce0720667133f",
-      "size": 1435284
+      "size": 1435284,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/875514d88885d2dcb6d6c1af023ce0720667133f"
+      ]
     },
     {
       "path": "mods/ftb-ultimine-fabric-2101.1.15.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/ftb-ultimine-fabric-2101.1.15.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/ftb-ultimine-fabric-2101.1.15.jar",
       "sha1": "7b60cbf3c5320489b1b702bdbfc373deb39f5159",
-      "size": 176926
+      "size": 176926,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/7b60cbf3c5320489b1b702bdbfc373deb39f5159"
+      ]
     },
     {
       "path": "mods/gpumemleakfix-fabric-1.21-1.8.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/gpumemleakfix-fabric-1.21-1.8.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/gpumemleakfix-fabric-1.21-1.8.jar",
       "sha1": "416bca48280bbbb824e595d12fc694cc7488cfc4",
-      "size": 6016
+      "size": 6016,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/416bca48280bbbb824e595d12fc694cc7488cfc4"
+      ]
     },
     {
       "path": "mods/lootintegrations-fabric-1.21-4.7.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/lootintegrations-fabric-1.21-4.7.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/lootintegrations-fabric-1.21-4.7.jar",
       "sha1": "c49967152f302b18a1e0e2e556a729dee8b477b4",
-      "size": 40212
+      "size": 40212,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/c49967152f302b18a1e0e2e556a729dee8b477b4"
+      ]
     },
     {
       "path": "mods/memorysettings-fabric-1.21-6.0.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/memorysettings-fabric-1.21-6.0.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/memorysettings-fabric-1.21-6.0.jar",
       "sha1": "a0a39f35bbe7f348096288683892014b3dd66438",
-      "size": 22622
+      "size": 22622,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a0a39f35bbe7f348096288683892014b3dd66438"
+      ]
     },
     {
       "path": "mods/MemorySweep-1.21.1-fabric-2.0.3-fix.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/MemorySweep-1.21.1-fabric-2.0.3-fix.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/MemorySweep-1.21.1-fabric-2.0.3-fix.jar",
       "sha1": "f81b2a3a2fb2a57fd240505d3911d72ed54a540c",
-      "size": 24276
+      "size": 24276,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f81b2a3a2fb2a57fd240505d3911d72ed54a540c"
+      ]
     },
     {
       "path": "mods/rhino-2101.2.7-build.85.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/rhino-2101.2.7-build.85.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/rhino-2101.2.7-build.85.jar",
       "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
-      "size": 882075
+      "size": 882075,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/370598a1d2321c8a705ce539eb970375f20150c3"
+      ]
     },
     {
       "path": "mods/smoothchunk-fabric-1.21-4.1.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/smoothchunk-fabric-1.21-4.1.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/smoothchunk-fabric-1.21-4.1.jar",
       "sha1": "b367bd9aa8709c09bb26662aeefd0d8bc871d3f5",
-      "size": 13769
+      "size": 13769,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/b367bd9aa8709c09bb26662aeefd0d8bc871d3f5"
+      ]
     },
     {
       "path": "mods/springdaot-3.3.0.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/springdaot-3.3.0.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/springdaot-3.3.0.jar",
       "sha1": "b38d1d5c112458a68d34e54b1a1fd0f659bcbe65",
-      "size": 12215113
+      "size": 12215113,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/b38d1d5c112458a68d34e54b1a1fd0f659bcbe65"
+      ]
     },
     {
       "path": "mods/zergatul.freecam-2.3.1-fabric-1.21.jar",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/zergatul.freecam-2.3.1-fabric-1.21.jar",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/mods/zergatul.freecam-2.3.1-fabric-1.21.jar",
       "sha1": "a2509e85f7067ce296ccb5a1515b3106ebfc0349",
-      "size": 64272
+      "size": 64272,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a2509e85f7067ce296ccb5a1515b3106ebfc0349"
+      ]
     },
     {
       "path": "resourcepacks/MandalasGUI+Dakmode_1.21.8_v3.1.zip",
-      "url": "https://cdn.jsdelivr.net/gh/DemoVPS69420/modpacklauncherupdater@3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/resourcepacks/MandalasGUI%2BDakmode_1.21.8_v3.1.zip",
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/3aadec55834287fc8eb8fd6d91a83d34b07ee3ce/overrides/resourcepacks/MandalasGUI%2BDakmode_1.21.8_v3.1.zip",
       "sha1": "6475c078d1d306f5ec6eb84bb180d014168b8097",
-      "size": 727474
+      "size": 727474,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/6475c078d1d306f5ec6eb84bb180d014168b8097"
+      ]
     }
   ]
 }
