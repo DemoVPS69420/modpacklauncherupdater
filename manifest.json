@@ -692,15 +692,6 @@
       ]
     },
     {
-      "path": "mods/particular-1.21.1-Fabric-1.5.7.jar",
-      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/7HcxmnFS/particular-1.21.1-Fabric-1.5.7.jar",
-      "sha1": "e2bb1ab8c973303fa0a40a636b33a645dcc87b24",
-      "size": 285956,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/e2bb1ab8c973303fa0a40a636b33a645dcc87b24"
-      ]
-    },
-    {
       "path": "mods/placeholder-api-2.4.2+1.21.jar",
       "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
       "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
