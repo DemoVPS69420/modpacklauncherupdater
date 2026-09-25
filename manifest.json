@@ -1241,7 +1241,16 @@
       "path": "mods/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ez3cx7Yd/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar",
       "sha1": "d18b0829416ec6948102524b6e913e5bc73ae402",
-      "size": 28224156
+      "size": 28224156,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/d18b0829416ec6948102524b6e913e5bc73ae402"
+      ]
+    },
+    {
+      "path": "mods/cwb-fabric-3.0.0+mc1.21.jar",
+      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/m350hyy8/cwb-fabric-3.0.0%2Bmc1.21.jar",
+      "sha1": "0979201d1d131a3bf0594060c58da7dcb55aded6",
+      "size": 81288
     }
   ]
 }
