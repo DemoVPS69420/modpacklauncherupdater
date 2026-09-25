@@ -1250,7 +1250,10 @@
       "path": "mods/cwb-fabric-3.0.0+mc1.21.jar",
       "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/m350hyy8/cwb-fabric-3.0.0%2Bmc1.21.jar",
       "sha1": "0979201d1d131a3bf0594060c58da7dcb55aded6",
-      "size": 81288
+      "size": 81288,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0979201d1d131a3bf0594060c58da7dcb55aded6"
+      ]
     }
   ]
 }
