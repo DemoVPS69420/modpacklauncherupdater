@@ -1,0 +1,19 @@
+{
+  "style": "ROTATION",
+  "musicTurnoff": true,
+  "determination": true,
+  "centeredHeart": false,
+  "centeredHeartAnimation": false,
+  "centeredHeartSpeed": 0.15,
+  "backgroundFadeSpeed": 1.0,
+  "dynamicHeart": true,
+  "vanillaFadeIn": true,
+  "vanillaFadeInDuration": 20,
+  "textFadeIn": false,
+  "textFadeInDuration": 40,
+  "fadeToVanillaScreen": false,
+  "fadeToVanillaSpeed": 0.05,
+  "fixedAnimationRate": true,
+  "disableButtonsBeforeAnimation": true,
+  "vanillaRedTint": true
+}
