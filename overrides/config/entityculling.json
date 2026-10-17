@@ -1,6 +1,5 @@
 {
-  "configVersion": 9,
-  "safeMode": true,
+  "configVersion": 8,
   "renderNametagsThroughWalls": true,
   "blockEntityWhitelist": [
     "create:rope_pulley",
@@ -14,13 +13,18 @@
   "entityWhitelist": [
     "botania:mana_burst",
     "drg_flares:drg_flares",
-    "quark:soul_bead"
+    "quark:soul_bead",
+    "fdbosses:chesed_one_shot_vertical_ray_attack",
+    "fdbosses:radial_earthquake",
+    "fdbosses:chesed",
+    "fdbosses:malkuth",
+    "fdbosses:geburah"
   ],
-  "tracingDistance": 72,
+  "tracingDistance": 128,
   "debugMode": false,
   "sleepDelay": 10,
-  "hitboxLimit": 40,
-  "captureRate": 12,
+  "hitboxLimit": 50,
+  "captureRate": 5,
   "tickCulling": true,
   "tickCullingWhitelist": [
     "minecraft:block_display",
@@ -60,14 +64,19 @@
     "minecraft:pale_oak_chest_boat",
     "minecraft:bamboo_chest_raft",
     "minecraft:mangrove_chest_boat",
-    "voidscape:corrupted_pawn",
+    "fdbosses:chesed_one_shot_vertical_ray_attack",
+    "fdbosses:radial_earthquake",
+    "fdbosses:chesed",
+    "fdbosses:malkuth",
+    "fdbosses:geburah",
     "cinematiccataclysm:scylla_cutscene",
     "cinematiccataclysm:maledictus_cutscene",
     "cinematiccataclysm:leviathan_cutscene",
     "cinematiccataclysm:ancient_remnant_cutscene",
     "createbigcannons:cannon_carriage",
     "createbigcannons:pitch_contraption",
-    "cinematiccataclysm:ignis_cutscene"
+    "cinematiccataclysm:ignis_cutscene",
+    "voidscape:corrupted_pawn"
   ],
   "disableF3": false,
   "skipEntityCulling": false,

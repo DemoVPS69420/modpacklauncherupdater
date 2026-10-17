@@ -1,0 +1,17 @@
+[milim]
+	#Dragon Star searches every living target in the forward half-space within this distance.
+	# Default: 48.0
+	# Range: 4.0 ~ 96.0
+	burstRange = 48.0
+	#Ticks between volleys during the 4.43-10.8 second release phase.
+	# Default: 20
+	# Range: 10 ~ 60
+	volleyIntervalTicks = 20
+	#Ticks after a normal combat cast before another can start.
+	# Default: 320
+	# Range: 20 ~ 12000
+	burstCooldownTicks = 320
+	#Damage per star hit. Gameplay default, not a canonical Tensura power value.
+	# Default: 300.0
+	# Range: 0.0 ~ 1000000.0
+	dragonStarDamage = 300.0
