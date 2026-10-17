@@ -32509,17 +32509,6 @@
       ]
     },
     {
-      "path": "kubejs/README.txt",
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/07335fbd61b33310c3f9f2c34e96e703907c9129/overrides/kubejs/README.txt",
-      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9",
-      "size": 1203,
-      "once": true,
-      "optional": true,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
-      ]
-    },
-    {
       "path": "mods/balm-neoforge-1.21.1-21.0.49.jar",
       "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/07335fbd61b33310c3f9f2c34e96e703907c9129/overrides/mods/balm-neoforge-1.21.1-21.0.49.jar",
       "sha1": "f7ed2be5f60c85cfce66c853e3baeb10d93d7e23",
