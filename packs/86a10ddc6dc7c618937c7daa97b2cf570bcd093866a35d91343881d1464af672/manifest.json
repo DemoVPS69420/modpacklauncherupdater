@@ -2742,12 +2742,30 @@
       ]
     },
     {
-      "path": "mods/illagerstructures-fabric-26.3-0.4.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/9266/810/illagerstructures-fabric-26.3-0.4.0.jar",
-      "sha1": "2744a6572eb9b8e75eae10d2c6831db0eab233aa",
-      "size": 1365837,
+      "path": "mods/illagerstructures-fabric-1.21.1-0.1.3.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9019/741/illagerstructures-fabric-1.21.1-0.1.3.jar",
+      "sha1": "77558f4825991b3dfa1661187e6455c864fa9acb",
+      "size": 1365097,
       "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/2744a6572eb9b8e75eae10d2c6831db0eab233aa"
+        "https://mods.kadenmegarimi.id.vn/files/77558f4825991b3dfa1661187e6455c864fa9acb"
+      ]
+    },
+    {
+      "path": "mods/better-nether-21.0.22-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9259/285/better-nether-21.0.22-fabric.jar",
+      "sha1": "378d85d48de0202ee5142b1dc181532d1bf2de2e",
+      "size": 26754427,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/378d85d48de0202ee5142b1dc181532d1bf2de2e"
+      ]
+    },
+    {
+      "path": "mods/better-end-21.0.23-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9259/258/better-end-21.0.23-fabric.jar",
+      "sha1": "862d9b6935006fecec3c09f4ede3435178ad5df9",
+      "size": 97919451,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/862d9b6935006fecec3c09f4ede3435178ad5df9"
       ]
     }
   ],
