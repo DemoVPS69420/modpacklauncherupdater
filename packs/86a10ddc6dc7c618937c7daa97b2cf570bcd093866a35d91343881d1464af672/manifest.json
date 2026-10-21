@@ -1439,15 +1439,6 @@
       ]
     },
     {
-      "path": "mods/soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/oX6SohLj/versions/pugWsECf/soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
-      "sha1": "db41aa7c468430b98e02751d1296315cec95a0d0",
-      "size": 54447392,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/db41aa7c468430b98e02751d1296315cec95a0d0"
-      ]
-    },
-    {
       "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
       "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/tVu2EZ4u/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
       "sha1": "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0",
