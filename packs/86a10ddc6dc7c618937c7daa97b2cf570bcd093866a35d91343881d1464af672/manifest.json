@@ -1556,15 +1556,6 @@
       ]
     },
     {
-      "path": "mods/wunderlib-21.0.8.jar",
-      "url": "https://cdn.modrinth.com/data/8O0Adq7w/versions/NWOZ9B7R/wunderlib-21.0.8.jar",
-      "sha1": "ad8c66609db363765855983f0e7f3b655ed0cc64",
-      "size": 384385,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/ad8c66609db363765855983f0e7f3b655ed0cc64"
-      ]
-    },
-    {
       "path": "mods/xercamusic-1.21.1-1.2.1.jar",
       "url": "https://cdn.modrinth.com/data/qQpWCN75/versions/AcXWlnZS/xercamusic-1.21.1-1.2.1.jar",
       "sha1": "57307a456d5c98f35c39e00a44f4e57dc1ad989e",
@@ -2627,13 +2618,6 @@
       "mirrors": []
     },
     {
-      "path": "mods/BetterEndRemastered-30.5.4.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/ade0bae079e80d55a4b7147e0437b899e117de96",
-      "sha1": "ade0bae079e80d55a4b7147e0437b899e117de96",
-      "size": 93261058,
-      "mirrors": []
-    },
-    {
       "path": "mods/croptopia-fabric-1.21.1-4.2.4.jar",
       "url": "https://mods.kadenmegarimi.id.vn/files/9d0180502ae6c8c791690107157938872d6315c8",
       "sha1": "9d0180502ae6c8c791690107157938872d6315c8",
@@ -2744,24 +2728,6 @@
       ]
     },
     {
-      "path": "mods/better-nether-21.0.22-fabric.jar",
-      "url": "https://mediafilez.forgecdn.net/files/9259/285/better-nether-21.0.22-fabric.jar",
-      "sha1": "378d85d48de0202ee5142b1dc181532d1bf2de2e",
-      "size": 26754427,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/378d85d48de0202ee5142b1dc181532d1bf2de2e"
-      ]
-    },
-    {
-      "path": "mods/better-end-21.0.23-fabric.jar",
-      "url": "https://mediafilez.forgecdn.net/files/9259/258/better-end-21.0.23-fabric.jar",
-      "sha1": "862d9b6935006fecec3c09f4ede3435178ad5df9",
-      "size": 97919451,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/862d9b6935006fecec3c09f4ede3435178ad5df9"
-      ]
-    },
-    {
       "path": "mods/wunderlib-21.0.10-fabric.jar",
       "url": "https://mediafilez.forgecdn.net/files/9172/423/wunderlib-21.0.10-fabric.jar",
       "sha1": "ccdbb4852d0c5cca8f38a781809e57a9f4714520",
@@ -2777,6 +2743,24 @@
       "size": 1505103,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/d72cb322044bd2abcbdb7e72dab39dc5c1adabb0"
+      ]
+    },
+    {
+      "path": "mods/better-nether-21.0.22-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9259/285/better-nether-21.0.22-fabric.jar",
+      "sha1": "378d85d48de0202ee5142b1dc181532d1bf2de2e",
+      "size": 26754427,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/378d85d48de0202ee5142b1dc181532d1bf2de2e"
+      ]
+    },
+    {
+      "path": "mods/better-end-21.0.23-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9259/258/better-end-21.0.23-fabric.jar",
+      "sha1": "862d9b6935006fecec3c09f4ede3435178ad5df9",
+      "size": 97919451,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/862d9b6935006fecec3c09f4ede3435178ad5df9"
       ]
     }
   ],
