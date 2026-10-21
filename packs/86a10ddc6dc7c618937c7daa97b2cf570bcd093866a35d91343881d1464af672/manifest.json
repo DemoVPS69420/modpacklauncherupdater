@@ -2740,6 +2740,15 @@
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/ee81af33a5606ef2cd057e075833d7c69836c210"
       ]
+    },
+    {
+      "path": "mods/illagerstructures-fabric-26.3-0.4.0.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9266/810/illagerstructures-fabric-26.3-0.4.0.jar",
+      "sha1": "2744a6572eb9b8e75eae10d2c6831db0eab233aa",
+      "size": 1365837,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/2744a6572eb9b8e75eae10d2c6831db0eab233aa"
+      ]
     }
   ],
   "packCode": "betatest-season5"
