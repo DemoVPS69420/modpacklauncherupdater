@@ -2722,6 +2722,24 @@
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/5abe8af0b85acc94506caa0a36ccc59836956dd2"
       ]
+    },
+    {
+      "path": "mods/simplehats-fabric-1.21.1-0.4.1.jar",
+      "url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/CBwzDCWX/simplehats-fabric-1.21.1-0.4.1.jar",
+      "sha1": "0cc9927de8cf9ec693b1511c051f140901d588cd",
+      "size": 1418682,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0cc9927de8cf9ec693b1511c051f140901d588cd"
+      ]
+    },
+    {
+      "path": "mods/PlayerKits-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Syx3trEy/versions/HtgLQdYN/PlayerKits-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+      "sha1": "5b5cafa4a01d6d60ec09b898dbb0069a7065d169",
+      "size": 71235,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/5b5cafa4a01d6d60ec09b898dbb0069a7065d169"
+      ]
     }
   ],
   "packCode": "betatest-season5"
