@@ -2733,12 +2733,12 @@
       ]
     },
     {
-      "path": "mods/PlayerKits-1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/Syx3trEy/versions/HtgLQdYN/PlayerKits-1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
-      "sha1": "5b5cafa4a01d6d60ec09b898dbb0069a7065d169",
-      "size": 71235,
+      "path": "mods/PlayerKits-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Syx3trEy/versions/QnjJzw4q/PlayerKits-1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+      "sha1": "fd49a2795eba195a3d014e56b79d9a5dd47ee065",
+      "size": 71251,
       "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/5b5cafa4a01d6d60ec09b898dbb0069a7065d169"
+        "https://mods.kadenmegarimi.id.vn/files/fd49a2795eba195a3d014e56b79d9a5dd47ee065"
       ]
     }
   ],
