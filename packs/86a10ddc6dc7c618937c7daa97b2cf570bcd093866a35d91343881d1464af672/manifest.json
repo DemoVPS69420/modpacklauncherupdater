@@ -2627,13 +2627,6 @@
       "mirrors": []
     },
     {
-      "path": "mods/BCLibRemastered-30.5.4.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/bf02ee728ac27010586ef3c889cbcccf305bc4ab",
-      "sha1": "bf02ee728ac27010586ef3c889cbcccf305bc4ab",
-      "size": 1606960,
-      "mirrors": []
-    },
-    {
       "path": "mods/BetterEndRemastered-30.5.4.jar",
       "url": "https://mods.kadenmegarimi.id.vn/files/ade0bae079e80d55a4b7147e0437b899e117de96",
       "sha1": "ade0bae079e80d55a4b7147e0437b899e117de96",
@@ -2766,6 +2759,24 @@
       "size": 97919451,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/862d9b6935006fecec3c09f4ede3435178ad5df9"
+      ]
+    },
+    {
+      "path": "mods/wunderlib-21.0.10-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9172/423/wunderlib-21.0.10-fabric.jar",
+      "sha1": "ccdbb4852d0c5cca8f38a781809e57a9f4714520",
+      "size": 384396,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/ccdbb4852d0c5cca8f38a781809e57a9f4714520"
+      ]
+    },
+    {
+      "path": "mods/bclib-21.0.21-fabric.jar",
+      "url": "https://mediafilez.forgecdn.net/files/9259/218/bclib-21.0.21-fabric.jar",
+      "sha1": "d72cb322044bd2abcbdb7e72dab39dc5c1adabb0",
+      "size": 1505103,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/d72cb322044bd2abcbdb7e72dab39dc5c1adabb0"
       ]
     }
   ],
