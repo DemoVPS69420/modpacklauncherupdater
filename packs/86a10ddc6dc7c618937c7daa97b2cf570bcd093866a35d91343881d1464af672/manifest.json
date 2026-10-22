@@ -1295,15 +1295,6 @@
       ]
     },
     {
-      "path": "mods/numismatic-overhaul-0.3.5+1.21.jar",
-      "url": "https://cdn.modrinth.com/data/ZXm8hVxN/versions/Ls16xJ6W/numismatic-overhaul-0.3.5%2B1.21.jar",
-      "sha1": "58b63790cf9c256128b8ebceec5b01f454e64450",
-      "size": 509477,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/58b63790cf9c256128b8ebceec5b01f454e64450"
-      ]
-    },
-    {
       "path": "mods/numismatic-waystones-1.0.0+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/23XgPgKp/versions/a7yPvxZq/numismatic-waystones-1.0.0%2B1.21.1.jar",
       "sha1": "9aec26e786dd1f7bc5ed30a29b2815e558be8aa8",
