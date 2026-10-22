@@ -5057,6 +5057,15 @@
       "once": true,
       "optional": true,
       "mirrors": []
+    },
+    {
+      "path": "mods/numismatic-overhaul-0.3.51.21.jar",
+      "url": "https://cdn.discordapp.com/attachments/1414961118362865767/1562686131949281301/numismatic-overhaul-0.3.51.21.jar?ex=6adae45f&is=6ad992df&hm=b6760cd5b0d932ea2e17648dac022150651f9dbe9c94dbcfa0c31cf15f418f15&",
+      "sha1": "a611de94cdb1634e2cc188f96743c3ac535f7455",
+      "size": 609033,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/a611de94cdb1634e2cc188f96743c3ac535f7455"
+      ]
     }
   ],
   "packCode": "betatest-season5"
