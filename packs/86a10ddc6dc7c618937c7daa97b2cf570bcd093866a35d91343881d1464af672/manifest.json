@@ -764,15 +764,6 @@
       ]
     },
     {
-      "path": "mods/dreamdisplays-fabric-1.21.1-1.10.2.jar",
-      "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/17cgVQQJ/dreamdisplays-fabric-1.21.1-1.10.2.jar",
-      "sha1": "99cc163468aa3a580ff33f38cd2a8903571b745b",
-      "size": 26752769,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/99cc163468aa3a580ff33f38cd2a8903571b745b"
-      ]
-    },
-    {
       "path": "mods/drinkbeer-refill-1.21.1-fabric-1.4.2+fabric.jar",
       "url": "https://cdn.modrinth.com/data/RZwVw5iA/versions/AuEVRRdH/drinkbeer-refill-1.21.1-fabric-1.4.2%2Bfabric.jar",
       "sha1": "4642f4c73ce6a52c922d7d1cde6c8964e2228305",
@@ -5056,6 +5047,15 @@
       "size": 609033,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/a611de94cdb1634e2cc188f96743c3ac535f7455"
+      ]
+    },
+    {
+      "path": "mods/dreamdisplays-fabric-1.21.1-1.10.3.jar",
+      "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/wYExwL7R/dreamdisplays-fabric-1.21.1-1.10.3.jar",
+      "sha1": "f4383e51f4fd95c96eddf2b0cb74d254cc1dcee9",
+      "size": 26756316,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/f4383e51f4fd95c96eddf2b0cb74d254cc1dcee9"
       ]
     }
   ],
