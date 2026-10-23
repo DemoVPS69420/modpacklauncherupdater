@@ -28,20 +28,14 @@
   ],
   "branding": {
     "background": {
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/db5f38d0a6bd2a8f1903e5c79ae8b5f89f443711/branding/b7c1a456fcab10f0fbf5283e38104ee3cdc7e138.png",
-      "sha1": "b7c1a456fcab10f0fbf5283e38104ee3cdc7e138",
-      "size": 2256115,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/branding/b7c1a456fcab10f0fbf5283e38104ee3cdc7e138.png"
-      ]
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/e24ed998e8fcfab0c628b49e80c5924cda737620/branding/bb86162820234a8de1790512686a4232896c8031.png",
+      "sha1": "bb86162820234a8de1790512686a4232896c8031",
+      "size": 673
     },
     "logo": {
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/db5f38d0a6bd2a8f1903e5c79ae8b5f89f443711/branding/63d14a7160fc88666793e1e0f68862cfa831c8e8.png",
-      "sha1": "63d14a7160fc88666793e1e0f68862cfa831c8e8",
-      "size": 444635,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/branding/63d14a7160fc88666793e1e0f68862cfa831c8e8.png"
-      ]
+      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/e24ed998e8fcfab0c628b49e80c5924cda737620/branding/2a9ed27bc338901de823ede5a1bcaf2ceaa8e82e.png",
+      "sha1": "2a9ed27bc338901de823ede5a1bcaf2ceaa8e82e",
+      "size": 156739
     }
   }
 }
