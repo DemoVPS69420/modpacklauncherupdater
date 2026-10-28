@@ -1304,15 +1304,6 @@
       ]
     },
     {
-      "path": "mods/numismatic-overhaul-0.3.5+1.21.jar",
-      "url": "https://cdn.modrinth.com/data/ZXm8hVxN/versions/Ls16xJ6W/numismatic-overhaul-0.3.5%2B1.21.jar",
-      "sha1": "a611de94cdb1634e2cc188f96743c3ac535f7455",
-      "size": 609033,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/a611de94cdb1634e2cc188f96743c3ac535f7455"
-      ]
-    },
-    {
       "path": "mods/numismatic-waystones-1.0.0+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/23XgPgKp/versions/a7yPvxZq/numismatic-waystones-1.0.0%2B1.21.1.jar",
       "sha1": "9aec26e786dd1f7bc5ed30a29b2815e558be8aa8",
@@ -5120,6 +5111,15 @@
       "once": true,
       "optional": true,
       "mirrors": []
+    },
+    {
+      "path": "mods/numismatic-overhaul-0.3.51.21.jar",
+      "url": "https://cdn.discordapp.com/attachments/1414961118362865767/1564868819929927740/numismatic-overhaul-0.3.51.21.jar?ex=6ae2d528&is=6ae183a8&hm=741196c31daeb41ce2aca3ff018c730010de67c49237a5010ca36af5af61f299&",
+      "sha1": "9adb2ab70a160a6d279319649ee93cf4423770b2",
+      "size": 608572,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/9adb2ab70a160a6d279319649ee93cf4423770b2"
+      ]
     }
   ],
   "packCode": "betatest-season5"
