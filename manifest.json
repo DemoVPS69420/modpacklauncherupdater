@@ -28,14 +28,16 @@
   ],
   "branding": {
     "background": {
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/e24ed998e8fcfab0c628b49e80c5924cda737620/branding/bb86162820234a8de1790512686a4232896c8031.png",
-      "sha1": "bb86162820234a8de1790512686a4232896c8031",
-      "size": 673
+      "url": "https://mods.kadenmegarimi.id.vn/branding/63f67ebe32d9891c76788829793a582b56e80dc7.png",
+      "sha1": "63f67ebe32d9891c76788829793a582b56e80dc7",
+      "size": 2232093,
+      "mirrors": []
     },
     "logo": {
-      "url": "https://raw.githubusercontent.com/DemoVPS69420/modpacklauncherupdater/e24ed998e8fcfab0c628b49e80c5924cda737620/branding/2a9ed27bc338901de823ede5a1bcaf2ceaa8e82e.png",
-      "sha1": "2a9ed27bc338901de823ede5a1bcaf2ceaa8e82e",
-      "size": 156739
+      "url": "https://mods.kadenmegarimi.id.vn/branding/e4f17c8d05f233164dd738d878b7ea2a99aa480a.png",
+      "sha1": "e4f17c8d05f233164dd738d878b7ea2a99aa480a",
+      "size": 688327,
+      "mirrors": []
     }
   }
 }
