@@ -188,15 +188,6 @@
       ]
     },
     {
-      "path": "mods/Levelz-Additions-1.21.1-1.0.1.jar",
-      "url": "https://cdn.modrinth.com/data/D2VVZrl3/versions/8R2wJ9Cz/Levelz-Additions-1.21.1-1.0.1.jar",
-      "sha1": "e5addb2b8f4686f42574b128b91b750e998a2c64",
-      "size": 21339,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/e5addb2b8f4686f42574b128b91b750e998a2c64"
-      ]
-    },
-    {
       "path": "mods/MagnumTorch-v21.1.1-1.21.1-Fabric.jar",
       "url": "https://cdn.modrinth.com/data/jorDmSKv/versions/85ZLqags/MagnumTorch-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "1f48a88febc6df959b38dafb1572cffc10dc369d",
