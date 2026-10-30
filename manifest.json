@@ -1,6 +1,6 @@
 {
   "name": "MInecraft Dung Senpai community server season 5",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -638,6 +638,15 @@
       ]
     },
     {
+      "path": "mods/bettercombat-fabric-2.4.0+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/JJQpBecL/bettercombat-fabric-2.4.0%2B1.21.1.jar",
+      "sha1": "38d1d1f22e9255092baf85abf93a3b9746fa6ed1",
+      "size": 930023,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/38d1d1f22e9255092baf85abf93a3b9746fa6ed1"
+      ]
+    },
+    {
       "path": "mods/bobby-5.2.4.1+mc1.21.jar",
       "url": "https://cdn.modrinth.com/data/M08ruV16/versions/a8r0n94h/bobby-5.2.4.1%2Bmc1.21.jar",
       "sha1": "6f79364441347b59ccdfd224da5f894c0179330b",
@@ -1022,15 +1031,6 @@
       "size": 323624,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/e44f3d76911bae5ac2b0532ba68ad0f879822bc7"
-      ]
-    },
-    {
-      "path": "mods/levelz_marius's_weaponry-1.21.1-1.0.jar",
-      "url": "https://cdn.modrinth.com/data/jF0ePMmN/versions/Ju1Q9Cut/levelz_marius%27s_weaponry-1.21.1-1.0.jar",
-      "sha1": "22930f6ad05768b1ae94ee71a64f319ed2b5ae47",
-      "size": 60099,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/22930f6ad05768b1ae94ee71a64f319ed2b5ae47"
       ]
     },
     {
@@ -1520,15 +1520,6 @@
       ]
     },
     {
-      "path": "mods/soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/oX6SohLj/versions/pugWsECf/soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
-      "sha1": "db41aa7c468430b98e02751d1296315cec95a0d0",
-      "size": 54447392,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/db41aa7c468430b98e02751d1296315cec95a0d0"
-      ]
-    },
-    {
       "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
       "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/BYhL3BDk/sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
       "sha1": "3b80027d2ed279b26b2d300b9545fe5b1c40ff60",
@@ -1706,6 +1697,51 @@
       "size": 831659,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/d02230f473aecbd128c4dea45eda4c0603a6f390"
+      ]
+    },
+    {
+      "path": "shaderpacks/BSL_v10.1.8.zip",
+      "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/Y68yiql9/BSL_v10.1.8.zip",
+      "sha1": "e89818c8827d0131c102fb480c3c3446624db0df",
+      "size": 1134153,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e89818c8827d0131c102fb480c3c3446624db0df"
+      ]
+    },
+    {
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "url": "https://cdn.modrinth.com/data/ZvMtQlho/versions/kC2Y8q1P/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip",
+      "sha1": "ded6c8a98305f8aff90ef781e7585b33b8452cfd",
+      "size": 1791406,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/ded6c8a98305f8aff90ef781e7585b33b8452cfd"
+      ]
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip",
+      "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
+      "size": 553397,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/838139b54cddb56b2e83cd260d8efd960ac536d6"
+      ]
+    },
+    {
+      "path": "shaderpacks/Shrimple_v0.12.zip",
+      "url": "https://cdn.modrinth.com/data/BS9T99lD/versions/tAx0UOBX/Shrimple_v0.12.zip",
+      "sha1": "03f9a8e9c14f53a9c7ed33d89316ec930ab501cc",
+      "size": 10884315,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/03f9a8e9c14f53a9c7ed33d89316ec930ab501cc"
+      ]
+    },
+    {
+      "path": "shaderpacks/photon_v1.4.zip",
+      "url": "https://cdn.modrinth.com/data/lLqFfGNs/versions/BnGklH5y/photon_v1.4.zip",
+      "sha1": "96c7730f5891a42e39bbf1f0f5a98fa99628a7fe",
+      "size": 3857333,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/96c7730f5891a42e39bbf1f0f5a98fa99628a7fe"
       ]
     },
     {
