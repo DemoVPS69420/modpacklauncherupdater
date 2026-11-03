@@ -1754,15 +1754,6 @@
       "mirrors": []
     },
     {
-      "path": "config/shooting_star_demo_skills.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/1aa48918e1ad43e7d61beb8bffb2352d27dec02d",
-      "sha1": "1aa48918e1ad43e7d61beb8bffb2352d27dec02d",
-      "size": 604,
-      "once": true,
-      "optional": true,
-      "mirrors": []
-    },
-    {
       "path": "config/simplehats.json",
       "url": "https://mods.kadenmegarimi.id.vn/files/e736742a4bcee132ac7d00491ebcd62eb9289332",
       "sha1": "e736742a4bcee132ac7d00491ebcd62eb9289332",
@@ -1984,24 +1975,10 @@
       "mirrors": []
     },
     {
-      "path": "mods/rimulib-1.2.1-fabric.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/9e1a03c102486b8dbda93341101754188e450463",
-      "sha1": "9e1a03c102486b8dbda93341101754188e450463",
-      "size": 3065546,
-      "mirrors": []
-    },
-    {
       "path": "mods/star_quartet-1.4.0-fabric-multi.jar",
       "url": "https://mods.kadenmegarimi.id.vn/files/037c0c7c6e0835b4e895eda6e6817891cbedf32f",
       "sha1": "037c0c7c6e0835b4e895eda6e6817891cbedf32f",
       "size": 5320584,
-      "mirrors": []
-    },
-    {
-      "path": "mods/the-shooting-star-demo-1.5.1-fabric.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/e4d06cebb307ca7d0571d413d23b5a4a7b21c3f3",
-      "sha1": "e4d06cebb307ca7d0571d413d23b5a4a7b21c3f3",
-      "size": 93433700,
       "mirrors": []
     },
     {
