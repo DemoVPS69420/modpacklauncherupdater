@@ -1,6 +1,6 @@
 {
   "name": "Dung Senpai community minecraft server season 5 (Hotfix)",
-  "version": "1.3.0",
+  "version": "1.3.4",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -332,6 +332,15 @@
       ]
     },
     {
+      "path": "mods/bbe-fabric-1.3.4+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/pK7WAKWZ/bbe-fabric-1.3.4%2Bmc1.21.1.jar",
+      "sha1": "e9e69e0d9489ba513992477ccda7abeee7894fd7",
+      "size": 179125,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/e9e69e0d9489ba513992477ccda7abeee7894fd7"
+      ]
+    },
+    {
       "path": "mods/bc_particle-0.0.2-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/Nc3f2m7t/versions/ei0rju1s/bc_particle-0.0.2-1.21.1.jar",
       "sha1": "1a67aaa8c93a5b01f8514386f24e6acf1baf0409",
@@ -626,6 +635,15 @@
       "size": 105000,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb"
+      ]
+    },
+    {
+      "path": "mods/instantgroup-fabric-1.21.1-1.7.0.jar",
+      "url": "https://cdn.modrinth.com/data/1LE7mid6/versions/pMiTHN9M/instantgroup-fabric-1.21.1-1.7.0.jar",
+      "sha1": "cf3f4ce900285be55535dedf8c8cd9b61f9ae1c1",
+      "size": 496471,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/cf3f4ce900285be55535dedf8c8cd9b61f9ae1c1"
       ]
     },
     {
@@ -1133,6 +1151,15 @@
       ]
     },
     {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.27.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dyhq1XyO/voicechat-fabric-1.21.1-2.6.27.jar",
+      "sha1": "0b078093df28328d8faa0dc6495969bab5c75707",
+      "size": 5389006,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/0b078093df28328d8faa0dc6495969bab5c75707"
+      ]
+    },
+    {
       "path": "mods/watut-fabric-1.21.0-1.2.7.jar",
       "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/iHAQTK0N/watut-fabric-1.21.0-1.2.7.jar",
       "sha1": "31d06c335b9a3a9fd649e8f4518aaf5a65630f57",
@@ -1160,6 +1187,15 @@
       ]
     },
     {
+      "path": "mods/wraith-waystones-3.3.4+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/sTZr7NVo/versions/LUSqgrjd/wraith-waystones-3.3.4%2Bmc1.21.1.jar",
+      "sha1": "9e9caa7187a37a76a75ee442c75ad9f3886f4e80",
+      "size": 445684,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/9e9caa7187a37a76a75ee442c75ad9f3886f4e80"
+      ]
+    },
+    {
       "path": "mods/wunderlib-21.0.10-fabric.jar",
       "url": "https://cdn.modrinth.com/data/HZmhgdJk/versions/xJ6ulkHD/wunderlib-21.0.10-fabric.jar",
       "sha1": "ccdbb4852d0c5cca8f38a781809e57a9f4714520",
@@ -1167,6 +1203,501 @@
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/ccdbb4852d0c5cca8f38a781809e57a9f4714520"
       ]
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.height.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.hitbox_height.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.hitbox_scale.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.hitbox_width.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.lava_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.magic_protection.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.mob_detection_range.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.model_height.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.model_scale.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.model_width.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.water_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/generic.width.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.bonus_loot_count_rolls.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/070c2d1b53357c4ba68aa06ae7dee86d6f0e205d",
+      "sha1": "070c2d1b53357c4ba68aa06ae7dee86d6f0e205d",
+      "size": 383,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.bonus_rare_loot_rolls.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/070c2d1b53357c4ba68aa06ae7dee86d6f0e205d",
+      "sha1": "070c2d1b53357c4ba68aa06ae7dee86d6f0e205d",
+      "size": 383,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.collection_range.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/9b869572907bd57caa24e78264aa184cb55d77c9",
+      "sha1": "9b869572907bd57caa24e78264aa184cb55d77c9",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.critical_bonus_damage.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ad70d59874d480ea052b520619d80b834d7925a4",
+      "sha1": "ad70d59874d480ea052b520619d80b834d7925a4",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.dropped_experience.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.lava_visibility.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/additionalentityattributes/player.water_visibility.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/bygone/phasing_duration.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/creeperoverhaul/swim_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.armor.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "sha1": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "size": 389,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.armor_toughness.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "sha1": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "size": 389,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.attack_damage.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "sha1": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "size": 389,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.attack_knockback.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "sha1": "50dd44b372aa1cff539c6aa7b4e95d5fab800a6f",
+      "size": 389,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.attack_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.burning_time.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.explosion_knockback_resistance.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.fall_damage_multiplier.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/b6d7ad2357c5eac69ed7a8838d8fd53375c71353",
+      "sha1": "b6d7ad2357c5eac69ed7a8838d8fd53375c71353",
+      "size": 383,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.flying_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.follow_range.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "sha1": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.gravity.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/1d5ed055862c47949066a20d3ed5826f712371f6",
+      "sha1": "1d5ed055862c47949066a20d3ed5826f712371f6",
+      "size": 381,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.jump_strength.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/a96c33a8377874f4e84e774abfa2a507c89ef938",
+      "sha1": "a96c33a8377874f4e84e774abfa2a507c89ef938",
+      "size": 381,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.knockback_resistance.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.luck.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/588408d9fec5021933d07a1bade0ba5e6eb233aa",
+      "sha1": "588408d9fec5021933d07a1bade0ba5e6eb233aa",
+      "size": 393,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.max_absorption.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "sha1": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.max_health.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/7ec2381eea9f9462324a4182fc7fd504bcebb2fb",
+      "sha1": "7ec2381eea9f9462324a4182fc7fd504bcebb2fb",
+      "size": 389,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.movement_efficiency.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.movement_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.oxygen_bonus.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.safe_fall_distance.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/588408d9fec5021933d07a1bade0ba5e6eb233aa",
+      "sha1": "588408d9fec5021933d07a1bade0ba5e6eb233aa",
+      "size": 393,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.scale.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "sha1": "aae7e2890c973fad151ac37ed1ba7866dfbdf524",
+      "size": 387,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.step_height.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/168fec0e5f12bc91e259dec9fd2bc9267e385f69",
+      "sha1": "168fec0e5f12bc91e259dec9fd2bc9267e385f69",
+      "size": 381,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/generic.water_movement_efficiency.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.block_break_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.block_interaction_range.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/be72df575070529a730c4952c747461788217b37",
+      "sha1": "be72df575070529a730c4952c747461788217b37",
+      "size": 381,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.entity_interaction_range.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/be72df575070529a730c4952c747461788217b37",
+      "sha1": "be72df575070529a730c4952c747461788217b37",
+      "size": 381,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.mining_efficiency.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.sneaking_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.submerged_mining_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/675ec9e987ac72658f05d4883deed2a724ac19e4",
+      "sha1": "675ec9e987ac72658f05d4883deed2a724ac19e4",
+      "size": 381,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/player.sweeping_damage_ratio.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/minecraft/zombie.spawn_reinforcements.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "sha1": "ce6ea6bb31f80df6adf02d2878ff57bc29937150",
+      "size": 379,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/mythicmetals/carmot_shield.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "sha1": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/mythicmetals/elytra_rocket_speed.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "sha1": "2563d62e3c55dc0b3eaa65183b251e02029e4e15",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/attributefix/mythicmetals/fire_vulnerability.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "sha1": "e3f9cf465e92390bfd4c4de047b808f002eb3573",
+      "size": 385,
+      "once": true,
+      "optional": true,
+      "mirrors": []
     },
     {
       "path": "config/bc_particle/config.json5",
@@ -1191,6 +1722,33 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/7aeea9348bc3a8f09025cd5ca5c45108283dfdc6",
       "sha1": "7aeea9348bc3a8f09025cd5ca5c45108283dfdc6",
       "size": 110,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/bettercaves/fabric-1_21_1/liquidregions.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/12fa57a7462fec82c64dc30c0a40a9747f995671",
+      "sha1": "12fa57a7462fec82c64dc30c0a40a9747f995671",
+      "size": 168,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/bettercaves/fabric-1_21_1/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/f0f0630195b032113e179b47e27803fc2174ef1e",
+      "sha1": "f0f0630195b032113e179b47e27803fc2174ef1e",
+      "size": 743,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/bettercaves/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/3c98cdf993a30712d4a0c6a008845a61ca8915b9",
+      "sha1": "3c98cdf993a30712d4a0c6a008845a61ca8915b9",
+      "size": 546,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1227,6 +1785,42 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/da308da6817dae4e2ab7c9202bd9068ba5dd3f7d",
       "sha1": "da308da6817dae4e2ab7c9202bd9068ba5dd3f7d",
       "size": 7127,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterdeserttemples/fabric-1_21/armorstands.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/bb25fec4b0e39f652d5a8eb2084530c6103b8eb6",
+      "sha1": "bb25fec4b0e39f652d5a8eb2084530c6103b8eb6",
+      "size": 1344,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterdeserttemples/fabric-1_21/itemframes.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/d96bb93006330f8e6309bf0aaa6855b32d69bdb8",
+      "sha1": "d96bb93006330f8e6309bf0aaa6855b32d69bdb8",
+      "size": 824,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterdeserttemples/fabric-1_21/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/80a9d927f4978590ec21d5ae2e2a8e68b16f3277",
+      "sha1": "80a9d927f4978590ec21d5ae2e2a8e68b16f3277",
+      "size": 1683,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterdeserttemples/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/3fd4689974bc7e865ac4e87bbaa3c69fec37efc3",
+      "sha1": "3fd4689974bc7e865ac4e87bbaa3c69fec37efc3",
+      "size": 718,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1277,6 +1871,33 @@
       "mirrors": []
     },
     {
+      "path": "config/betterfortresses/fabric-1_21/itemframes.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/b8b215cb893a9b0cfe3baf48ef295d5204d1823d",
+      "sha1": "b8b215cb893a9b0cfe3baf48ef295d5204d1823d",
+      "size": 1161,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterfortresses/fabric-1_21/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/abaeda3856b09c5dd80e1b5ada9aaf171d038995",
+      "sha1": "abaeda3856b09c5dd80e1b5ada9aaf171d038995",
+      "size": 1339,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterfortresses/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/958b02dbaaa4530e96ea270f6a024df64e5cc057",
+      "sha1": "958b02dbaaa4530e96ea270f6a024df64e5cc057",
+      "size": 871,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
       "path": "config/betternether/biomes_toggle.json",
       "url": "https://mods.kadenmegarimi.id.vn/files/2a4fb56025b035c9667b6c5ba70141caec7f2117",
       "sha1": "2a4fb56025b035c9667b6c5ba70141caec7f2117",
@@ -1317,6 +1938,60 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/81548e8a5ad4c734b36fb916406c895ff1fb7b80",
       "sha1": "81548e8a5ad4c734b36fb916406c895ff1fb7b80",
       "size": 117,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_21/armorstands.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/a60f539b7b127283cf01845a1d578484bdc46b23",
+      "sha1": "a60f539b7b127283cf01845a1d578484bdc46b23",
+      "size": 1391,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_21/itemframes.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/a5aa209ad1318f95b7d4fc2550909c81c1d49c53",
+      "sha1": "a5aa209ad1318f95b7d4fc2550909c81c1d49c53",
+      "size": 920,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_21/ores.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/6131c9711876e81422f118e9ede5a7dc093ed6e2",
+      "sha1": "6131c9711876e81422f118e9ede5a7dc093ed6e2",
+      "size": 346,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_21/rareblocks.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/aacce217e633c6463384ce8aadd30a532a85f325",
+      "sha1": "aacce217e633c6463384ce8aadd30a532a85f325",
+      "size": 238,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds/fabric-1_21/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e9770e9a6a550871594e7e57326c26a97f912fac",
+      "sha1": "e9770e9a6a550871594e7e57326c26a97f912fac",
+      "size": 2817,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds/README.txt",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ddf185ed936e2fe4106b7aa585b99d1f1ac15114",
+      "sha1": "ddf185ed936e2fe4106b7aa585b99d1f1ac15114",
+      "size": 710,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1367,6 +2042,42 @@
       "mirrors": []
     },
     {
+      "path": "config/cristellib/betterdeserttemples/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/efa09788947cf8f5658aeb5e15010e17c81e6020",
+      "sha1": "efa09788947cf8f5658aeb5e15010e17c81e6020",
+      "size": 128,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterdeserttemples/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/89d6db1d78f6feb084537ce4d347c1199ca9694d",
+      "sha1": "89d6db1d78f6feb084537ce4d347c1199ca9694d",
+      "size": 96,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterdungeons/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/456894987ae790b725213c3c77dc2a95968373f0",
+      "sha1": "456894987ae790b725213c3c77dc2a95968373f0",
+      "size": 467,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterdungeons/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e14010c0664b80e8b6b5cc1aca4dc9b9437901e2",
+      "sha1": "e14010c0664b80e8b6b5cc1aca4dc9b9437901e2",
+      "size": 316,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
       "path": "config/cristellib/betterend/structure_placement_config.json5",
       "url": "https://mods.kadenmegarimi.id.vn/files/d3c0523dd39d368d25bc194aaebcf03caf5eaa8d",
       "sha1": "d3c0523dd39d368d25bc194aaebcf03caf5eaa8d",
@@ -1380,6 +2091,60 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/6206c8d85092084f7bbdbcc13db4293ed0ed4009",
       "sha1": "6206c8d85092084f7bbdbcc13db4293ed0ed4009",
       "size": 663,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterfortresses/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/7cc783bfda640a628bd3431cf885b59f96348f27",
+      "sha1": "7cc783bfda640a628bd3431cf885b59f96348f27",
+      "size": 123,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterfortresses/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/0cc51decee529f5ea60a409bbba56e7ca8b57842",
+      "sha1": "0cc51decee529f5ea60a409bbba56e7ca8b57842",
+      "size": 85,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterjungletemples/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/a603fe2f3660000fb45182762d49074a1a2c5bb3",
+      "sha1": "a603fe2f3660000fb45182762d49074a1a2c5bb3",
+      "size": 128,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterjungletemples/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/93791da44bd21e2b9555b269869918107469159b",
+      "sha1": "93791da44bd21e2b9555b269869918107469159b",
+      "size": 96,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/bettermineshafts/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/190a3ffd0885a6244229c1c3ba2a245f24a31234",
+      "sha1": "190a3ffd0885a6244229c1c3ba2a245f24a31234",
+      "size": 145,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/bettermineshafts/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/d8b7011910d102fa07461076fc6b011c9e7d3fd9",
+      "sha1": "d8b7011910d102fa07461076fc6b011c9e7d3fd9",
+      "size": 439,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1403,6 +2168,60 @@
       "mirrors": []
     },
     {
+      "path": "config/cristellib/betteroceanmonuments/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/95aef21f9817f0ff2ad9c9913c710cc6b0fd3f4b",
+      "sha1": "95aef21f9817f0ff2ad9c9913c710cc6b0fd3f4b",
+      "size": 129,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betteroceanmonuments/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/64bebd75846f47bf6bf40261371bf25cc230215a",
+      "sha1": "64bebd75846f47bf6bf40261371bf25cc230215a",
+      "size": 97,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterstrongholds/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/1b2cb16ec527805f0cd58bc0a498f39aaf53dfaf",
+      "sha1": "1b2cb16ec527805f0cd58bc0a498f39aaf53dfaf",
+      "size": 125,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterstrongholds/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/9f4a6f0d5b25bd69cefc60c685a46027a1d5c1e2",
+      "sha1": "9f4a6f0d5b25bd69cefc60c685a46027a1d5c1e2",
+      "size": 89,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterwitchhuts/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e814ebf7cc73ce9b220df6904e4b0c131aa596fc",
+      "sha1": "e814ebf7cc73ce9b220df6904e4b0c131aa596fc",
+      "size": 201,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/betterwitchhuts/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c38ccb5e0192dcbfebb8d2e6ff4429e856124550",
+      "sha1": "c38ccb5e0192dcbfebb8d2e6ff4429e856124550",
+      "size": 133,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
       "path": "config/cristellib/bygone/structure_placement_config.json5",
       "url": "https://mods.kadenmegarimi.id.vn/files/0488446e9f92b75c4fddf1b954b1162115802033",
       "sha1": "0488446e9f92b75c4fddf1b954b1162115802033",
@@ -1421,6 +2240,42 @@
       "mirrors": []
     },
     {
+      "path": "config/cristellib/mr_ati_structuresfabricforge/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/fcd9d58d6164df2cb226ab3d855c7bf222a9c60a",
+      "sha1": "fcd9d58d6164df2cb226ab3d855c7bf222a9c60a",
+      "size": 534,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_ati_structuresfabricforge/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/9b588c0e72388b7fd2fd2b8437f0e98c1de167bf",
+      "sha1": "9b588c0e72388b7fd2fd2b8437f0e98c1de167bf",
+      "size": 1551,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_blossom_blade/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/fb96df8ef233bd331d680bec7bf47ec20323e043",
+      "sha1": "fb96df8ef233bd331d680bec7bf47ec20323e043",
+      "size": 126,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_blossom_blade/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/d685062890b03f9f749400e7631a5575ed8add80",
+      "sha1": "d685062890b03f9f749400e7631a5575ed8add80",
+      "size": 95,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
       "path": "config/cristellib/mr_enchantments_encore/structure_placement_config.json5",
       "url": "https://mods.kadenmegarimi.id.vn/files/5b833cbc66883068d5864bc6929471ccf289b042",
       "sha1": "5b833cbc66883068d5864bc6929471ccf289b042",
@@ -1434,6 +2289,150 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/9eb011af5c5e61dafe78d8ca0577a1c733697e75",
       "sha1": "9eb011af5c5e61dafe78d8ca0577a1c733697e75",
       "size": 77,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresdungeons/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/f930a3584de517f96777b7d670e464c3808dc638",
+      "sha1": "f930a3584de517f96777b7d670e464c3808dc638",
+      "size": 369,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresdungeons/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/0c2106be8f4e69f74b24a964a2e1a9ec27ea905c",
+      "sha1": "0c2106be8f4e69f74b24a964a2e1a9ec27ea905c",
+      "size": 495,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresigloo/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/469a5a0c5417c15de1af50fc4aac3a1c23d5c1a3",
+      "sha1": "469a5a0c5417c15de1af50fc4aac3a1c23d5c1a3",
+      "size": 205,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresigloo/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e404965c9e169a623e523f47cc284ffec0a30185",
+      "sha1": "e404965c9e169a623e523f47cc284ffec0a30185",
+      "size": 135,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresjungletemples/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2d83dee71d2a31e55f818912f074aecbc992eb3d",
+      "sha1": "2d83dee71d2a31e55f818912f074aecbc992eb3d",
+      "size": 207,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresjungletemples/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/dc03813cb75b044fa9e06056c95d838c8d7b9e60",
+      "sha1": "dc03813cb75b044fa9e06056c95d838c8d7b9e60",
+      "size": 174,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresvillagesstandaloneedition/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/11c8636c667575e21266e7104c3f18ddcc204fc6",
+      "sha1": "11c8636c667575e21266e7104c3f18ddcc204fc6",
+      "size": 122,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structuresvillagesstandaloneedition/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/1444577aff601af26a9fc059b8e7bd0105284b83",
+      "sha1": "1444577aff601af26a9fc059b8e7bd0105284b83",
+      "size": 194,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structureswitchhuts/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/bf79b25e1171f9587e6dbbf5c9083a659fc6113f",
+      "sha1": "bf79b25e1171f9587e6dbbf5c9083a659fc6113f",
+      "size": 122,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_epic_structureswitchhuts/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/5e30d2e6c2546a787f2ed2efa12229f55876b585",
+      "sha1": "5e30d2e6c2546a787f2ed2efa12229f55876b585",
+      "size": 87,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_katters_structures/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/71c626825ddf87c32de90be8464dafbdd771b479",
+      "sha1": "71c626825ddf87c32de90be8464dafbdd771b479",
+      "size": 1049,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_katters_structures/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/591f2f70c434dddfb5d264a53d1061065b9ab08a",
+      "sha1": "591f2f70c434dddfb5d264a53d1061065b9ab08a",
+      "size": 1130,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_lukis_grandcapitals/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/3775a05a4a33412993cf496bfbb2459d341e1da2",
+      "sha1": "3775a05a4a33412993cf496bfbb2459d341e1da2",
+      "size": 123,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_lukis_grandcapitals/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/1444577aff601af26a9fc059b8e7bd0105284b83",
+      "sha1": "1444577aff601af26a9fc059b8e7bd0105284b83",
+      "size": 194,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_qraftyfied/structure_placement_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/4aae1b39e01a3f038f4c45a6d1148cf08e4cd68b",
+      "sha1": "4aae1b39e01a3f038f4c45a6d1148cf08e4cd68b",
+      "size": 4501,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/cristellib/mr_qraftyfied/structure_toggle_config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/8301a11057155a478e488211b6ffe9d61374022a",
+      "sha1": "8301a11057155a478e488211b6ffe9d61374022a",
+      "size": 2475,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1601,6 +2600,78 @@
       "mirrors": []
     },
     {
+      "path": "config/enhancedgroups/enhancedgroups.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/6d3c1799e8beaa816b22f5c41933f6c45531fe82",
+      "sha1": "6d3c1799e8beaa816b22f5c41933f6c45531fe82",
+      "size": 1786,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknights/armor.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c9b29e24eb45d66074b89ebbcd54f47d42679d9b",
+      "sha1": "c9b29e24eb45d66074b89ebbcd54f47d42679d9b",
+      "size": 12687,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknights/general.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/3352660b9e6b17d04a0b566f6b468fdbebd8f455",
+      "sha1": "3352660b9e6b17d04a0b566f6b468fdbebd8f455",
+      "size": 1915,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknights/mobs_equipment.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/05f856c098bb6c49f360edc0b2b30b3c1592369c",
+      "sha1": "05f856c098bb6c49f360edc0b2b30b3c1592369c",
+      "size": 1991,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknights/shields.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/27bd5e72b9108027e199029e342d7122b2ae8f7f",
+      "sha1": "27bd5e72b9108027e199029e342d7122b2ae8f7f",
+      "size": 1781,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknights/weapons.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/eb599aac0e79611ce682c0288cbefa4cf8894482",
+      "sha1": "eb599aac0e79611ce682c0288cbefa4cf8894482",
+      "size": 9918,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknightsaddon/armors.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e01fea7d1b566814a26fc851e4baa0f288cc5cac",
+      "sha1": "e01fea7d1b566814a26fc851e4baa0f288cc5cac",
+      "size": 28489,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/epicknightsaddon/weapons.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c72621c64daba720af0e3c708b8169e00724ea63",
+      "sha1": "c72621c64daba720af0e3c708b8169e00724ea63",
+      "size": 8445,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
       "path": "config/essentialcommands/rules.txt",
       "url": "https://mods.kadenmegarimi.id.vn/files/da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
@@ -1611,9 +2682,18 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/741c747b21ae603ab1b320fef34521d3a0ea11b2",
-      "sha1": "741c747b21ae603ab1b320fef34521d3a0ea11b2",
+      "url": "https://mods.kadenmegarimi.id.vn/files/b5b0b7439588d59cd08878c6b8462b626dd1b4fc",
+      "sha1": "b5b0b7439588d59cd08878c6b8462b626dd1b4fc",
       "size": 290,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/fwaystones/config.json5",
+      "url": "https://mods.kadenmegarimi.id.vn/files/3f99e1393418cd2481719df049dd492e28e0b0df",
+      "sha1": "3f99e1393418cd2481719df049dd492e28e0b0df",
+      "size": 3836,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1656,35 +2736,35 @@
     },
     {
       "path": "config/ji-afk-cinematic/music-history.txt",
-      "url": "https://mods.kadenmegarimi.id.vn/files/79e6a648b29e0383e10c938d08099d3e8b2f22fd",
-      "sha1": "79e6a648b29e0383e10c938d08099d3e8b2f22fd",
-      "size": 241,
+      "url": "https://mods.kadenmegarimi.id.vn/files/9011d043cc98dd784fc048cd997128822b192877",
+      "sha1": "9011d043cc98dd784fc048cd997128822b192877",
+      "size": 248,
       "once": true,
       "optional": true,
       "mirrors": []
     },
     {
       "path": "config/ji-afk-cinematic/music-history.txt.bak",
-      "url": "https://mods.kadenmegarimi.id.vn/files/1c5b8e9a5ac6445d6980212cf7529138c1f89fa5",
-      "sha1": "1c5b8e9a5ac6445d6980212cf7529138c1f89fa5",
-      "size": 247,
+      "url": "https://mods.kadenmegarimi.id.vn/files/53d012ed0dcccaca3421a10013d86e88a3d732ab",
+      "sha1": "53d012ed0dcccaca3421a10013d86e88a3d732ab",
+      "size": 239,
       "once": true,
       "optional": true,
       "mirrors": []
     },
     {
       "path": "config/ji-afk-cinematic/music-schedule-v1.txt",
-      "url": "https://mods.kadenmegarimi.id.vn/files/b71f8db46ee070255515bb7e982b7ff31a51d14e",
-      "sha1": "b71f8db46ee070255515bb7e982b7ff31a51d14e",
-      "size": 3633,
+      "url": "https://mods.kadenmegarimi.id.vn/files/d314a86f059260859b158c659c6874bac62d34f8",
+      "sha1": "d314a86f059260859b158c659c6874bac62d34f8",
+      "size": 3641,
       "once": true,
       "optional": true,
       "mirrors": []
     },
     {
       "path": "config/ji-afk-cinematic/music-schedule-v1.txt.bak",
-      "url": "https://mods.kadenmegarimi.id.vn/files/8469b9cae4054a3ae20c208dee7be710bb6328da",
-      "sha1": "8469b9cae4054a3ae20c208dee7be710bb6328da",
+      "url": "https://mods.kadenmegarimi.id.vn/files/d91fa5967242fc66cf9a3bbf032ffef2eaf15792",
+      "sha1": "d91fa5967242fc66cf9a3bbf032ffef2eaf15792",
       "size": 3634,
       "once": true,
       "optional": true,
@@ -1692,18 +2772,18 @@
     },
     {
       "path": "config/ji-afk-cinematic/music-sounds.txt",
-      "url": "https://mods.kadenmegarimi.id.vn/files/79e6a648b29e0383e10c938d08099d3e8b2f22fd",
-      "sha1": "79e6a648b29e0383e10c938d08099d3e8b2f22fd",
-      "size": 241,
+      "url": "https://mods.kadenmegarimi.id.vn/files/9011d043cc98dd784fc048cd997128822b192877",
+      "sha1": "9011d043cc98dd784fc048cd997128822b192877",
+      "size": 248,
       "once": true,
       "optional": true,
       "mirrors": []
     },
     {
       "path": "config/ji-afk-cinematic/music-sounds.txt.bak",
-      "url": "https://mods.kadenmegarimi.id.vn/files/1c5b8e9a5ac6445d6980212cf7529138c1f89fa5",
-      "sha1": "1c5b8e9a5ac6445d6980212cf7529138c1f89fa5",
-      "size": 247,
+      "url": "https://mods.kadenmegarimi.id.vn/files/53d012ed0dcccaca3421a10013d86e88a3d732ab",
+      "sha1": "53d012ed0dcccaca3421a10013d86e88a3d732ab",
+      "size": 239,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1817,6 +2897,42 @@
       "mirrors": []
     },
     {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/5eac9cfb94e24fa3256faab120c97e3d1615cce5",
+      "sha1": "5eac9cfb94e24fa3256faab120c97e3d1615cce5",
+      "size": 4879,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/95feb43eb67757038518212b08739cb39bb9763e",
+      "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
+      "size": 4713,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/sound_physics_remastered/sound_rates.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c4bac9475d7c6285bb998bb53c4ff5ba7df73e9f",
+      "sha1": "c4bac9475d7c6285bb998bb53c4ff5ba7df73e9f",
+      "size": 99094,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
+      "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
+      "size": 5104,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
       "path": "config/tide/tide_client.json",
       "url": "https://mods.kadenmegarimi.id.vn/files/52faa62f42efd75fbf1a9731a2b849445c84e6c1",
       "sha1": "52faa62f42efd75fbf1a9731a2b849445c84e6c1",
@@ -1866,6 +2982,60 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/1d3a26ff34edb8091a9deee5124bd4d349d97731",
       "sha1": "1d3a26ff34edb8091a9deee5124bd4d349d97731",
       "size": 1584,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
+      "size": 46,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
+      "size": 44,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3",
+      "size": 1182,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "size": 2,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/0419003bad89bd20a27b4e68d1aeb04c305aec85",
+      "sha1": "0419003bad89bd20a27b4e68d1aeb04c305aec85",
+      "size": 5081,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "url": "https://mods.kadenmegarimi.id.vn/files/eb76fd8f4172efdfcdd460cab7aa670542d220c8",
+      "sha1": "eb76fd8f4172efdfcdd460cab7aa670542d220c8",
+      "size": 3214,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -1956,6 +3126,87 @@
       "url": "https://mods.kadenmegarimi.id.vn/files/aff5e1434dd35e1349ef9ebb6a40148c71e7bab2",
       "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2",
       "size": 3458,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/BBEConfig.json",
+      "url": "https://mods.kadenmegarimi.id.vn/files/5616ee676e3b0169d60fd9f122cdf7d4d51569d5",
+      "sha1": "5616ee676e3b0169d60fd9f122cdf7d4d51569d5",
+      "size": 1601,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterdeserttemples-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/984d1b7f376bc2095f80cfea7d631e5dc93ed94c",
+      "sha1": "984d1b7f376bc2095f80cfea7d631e5dc93ed94c",
+      "size": 66,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterdungeons-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/07c62f3883fd98b998a6a8f61408dfdc2ab136dc",
+      "sha1": "07c62f3883fd98b998a6a8f61408dfdc2ab136dc",
+      "size": 418,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterfortresses-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/bfdf06660a4a3f3905f008643632c9cce5dba9c6",
+      "sha1": "bfdf06660a4a3f3905f008643632c9cce5dba9c6",
+      "size": 42,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterjungletemples-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/e42bea2a9396acb277430855d3c485efcd419032",
+      "sha1": "e42bea2a9396acb277430855d3c485efcd419032",
+      "size": 65,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/bettermineshafts-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/10ed3ebb8f0798c7a148af56256f8a05cf99c1a2",
+      "sha1": "10ed3ebb8f0798c7a148af56256f8a05cf99c1a2",
+      "size": 595,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betteroceanmonuments-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/c95152c4df0456f2bc8ca6272fee45873af4ef6b",
+      "sha1": "c95152c4df0456f2bc8ca6272fee45873af4ef6b",
+      "size": 41,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterstrongholds-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/3e5ca2277145d547d05f66e027c25e417c6b05e3",
+      "sha1": "3e5ca2277145d547d05f66e027c25e417c6b05e3",
+      "size": 86,
+      "once": true,
+      "optional": true,
+      "mirrors": []
+    },
+    {
+      "path": "config/betterwitchhuts-fabric-1_21.toml",
+      "url": "https://mods.kadenmegarimi.id.vn/files/2406cb4135c28a7ce234ec470a274a8995ecf3e5",
+      "sha1": "2406cb4135c28a7ce234ec470a274a8995ecf3e5",
+      "size": 41,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -2106,8 +3357,8 @@
     },
     {
       "path": "config/iris.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/bcd6524463009ae5c5b70be8d79478cb5bca3356",
-      "sha1": "bcd6524463009ae5c5b70be8d79478cb5bca3356",
+      "url": "https://mods.kadenmegarimi.id.vn/files/afc0949d5672838d1eeb3cb5e74795b580ad7eb9",
+      "sha1": "afc0949d5672838d1eeb3cb5e74795b580ad7eb9",
       "size": 303,
       "once": true,
       "optional": true,
@@ -2223,8 +3474,8 @@
     },
     {
       "path": "config/naturalist-client.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/1806a5ae67dc4155e108d0e966de416adf3e7862",
-      "sha1": "1806a5ae67dc4155e108d0e966de416adf3e7862",
+      "url": "https://mods.kadenmegarimi.id.vn/files/4d042c7c00af18c0bc30c70fd1a0e25d23f3fa5a",
+      "sha1": "4d042c7c00af18c0bc30c70fd1a0e25d23f3fa5a",
       "size": 82,
       "once": true,
       "optional": true,
@@ -2232,8 +3483,8 @@
     },
     {
       "path": "config/naturalist-server.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/c9fb89b2ce710e7cad58c0b2f430adb00939f62d",
-      "sha1": "c9fb89b2ce710e7cad58c0b2f430adb00939f62d",
+      "url": "https://mods.kadenmegarimi.id.vn/files/4a034e24b77c1a68036b85720242b968d414cddd",
+      "sha1": "4a034e24b77c1a68036b85720242b968d414cddd",
       "size": 1306,
       "once": true,
       "optional": true,
@@ -2250,8 +3501,8 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/539a1462a6201a1a87806d1da590e2fe7ca0296f",
-      "sha1": "539a1462a6201a1a87806d1da590e2fe7ca0296f",
+      "url": "https://mods.kadenmegarimi.id.vn/files/4b5011570805fd4be3e338efe342307930e27c96",
+      "sha1": "4b5011570805fd4be3e338efe342307930e27c96",
       "size": 488,
       "once": true,
       "optional": true,
@@ -2511,9 +3762,9 @@
     },
     {
       "path": "config/weaponmaster_ydm_config.properties",
-      "url": "https://mods.kadenmegarimi.id.vn/files/8825cbe9558c323c5ded7cd5df0326d030c16741",
-      "sha1": "8825cbe9558c323c5ded7cd5df0326d030c16741",
-      "size": 7291,
+      "url": "https://mods.kadenmegarimi.id.vn/files/8a4d6a45b52c8dc8ab5486a1fe78e67dccfabc9b",
+      "sha1": "8a4d6a45b52c8dc8ab5486a1fe78e67dccfabc9b",
+      "size": 7133,
       "once": true,
       "optional": true,
       "mirrors": []
@@ -2548,9 +3799,9 @@
     },
     {
       "path": "options.txt",
-      "url": "https://mods.kadenmegarimi.id.vn/files/5bba4f8b7be0141af030e517d6213269009ee376",
-      "sha1": "5bba4f8b7be0141af030e517d6213269009ee376",
-      "size": 5145,
+      "url": "https://mods.kadenmegarimi.id.vn/files/96c88d8611c8d8e61396a2282634185a5d99c015",
+      "sha1": "96c88d8611c8d8e61396a2282634185a5d99c015",
+      "size": 5965,
       "once": true,
       "optional": true,
       "mirrors": []
