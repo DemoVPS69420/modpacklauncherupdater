@@ -1,6 +1,6 @@
 {
   "name": "Dung Senpai community minecraft server season 5 (Hotfix)",
-  "version": "1.3.7",
+  "version": "1.3.7.2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "fabric",
@@ -3883,10 +3883,24 @@
       "mirrors": []
     },
     {
+      "path": "mods/dreamdisplays-beam-0.3.1+1.21.1.jar",
+      "url": "https://mods.kadenmegarimi.id.vn/files/ccc33086a5d4c7393e543b91a9a0d2703ea7f415",
+      "sha1": "ccc33086a5d4c7393e543b91a9a0d2703ea7f415",
+      "size": 2174397,
+      "mirrors": []
+    },
+    {
+      "path": "mods/dreamdisplays-lumen-0.1.3+1.21.1.jar",
+      "url": "https://mods.kadenmegarimi.id.vn/files/333cd89fac413cf8f60873cf18495e5c567fa30d",
+      "sha1": "333cd89fac413cf8f60873cf18495e5c567fa30d",
+      "size": 88644,
+      "mirrors": []
+    },
+    {
       "path": "mods/numismatic-overhaul-0.3.5+1.21.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/df3fe13c8ae0691c72aff48ebf60505c01e44b18",
-      "sha1": "df3fe13c8ae0691c72aff48ebf60505c01e44b18",
-      "size": 625070,
+      "url": "https://mods.kadenmegarimi.id.vn/files/24ccc5600427335c7d3762ece5d93fa529f1943b",
+      "sha1": "24ccc5600427335c7d3762ece5d93fa529f1943b",
+      "size": 629397,
       "mirrors": []
     },
     {
@@ -3911,15 +3925,6 @@
       "once": true,
       "optional": true,
       "mirrors": []
-    },
-    {
-      "path": "mods/dreamdisplays-lumen-0.1.3+1.21.1.jar",
-      "url": "https://github.com/XCraftTM/dreamdisplays-lumen/releases/download/v0.1.3/dreamdisplays-lumen-0.1.3+1.21.1.jar",
-      "sha1": "333cd89fac413cf8f60873cf18495e5c567fa30d",
-      "size": 88644,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/333cd89fac413cf8f60873cf18495e5c567fa30d"
-      ]
     },
     {
       "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
