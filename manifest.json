@@ -611,15 +611,6 @@
       ]
     },
     {
-      "path": "mods/fabric-seasons-croptopia-2.2.2-compat-1.0.jar",
-      "url": "https://cdn.modrinth.com/data/OsfjeSxl/versions/cPfUbo9H/fabric-seasons-croptopia-2.2.2-compat-1.0.jar",
-      "sha1": "561fa88280b3f6e7d716fd592faa4cdabd93eb93",
-      "size": 50831,
-      "mirrors": [
-        "https://mods.kadenmegarimi.id.vn/files/561fa88280b3f6e7d716fd592faa4cdabd93eb93"
-      ]
-    },
-    {
       "path": "mods/ferritecore-7.0.3-fabric.jar",
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
       "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
