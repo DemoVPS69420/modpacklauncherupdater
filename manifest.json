@@ -3920,6 +3920,15 @@
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/333cd89fac413cf8f60873cf18495e5c567fa30d"
       ]
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric",
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422",
+      "size": 2023375,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/7b5afc75a094b4e8a7118f9856eec959b10f2422"
+      ]
     }
   ],
   "branding": {
