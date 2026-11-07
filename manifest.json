@@ -611,6 +611,15 @@
       ]
     },
     {
+      "path": "mods/fabric-seasons-extras-1.3.3-BETA+1.21.jar",
+      "url": "https://cdn.modrinth.com/data/64FYdx5z/versions/ZIfSos0S/fabric-seasons-extras-1.3.3-BETA%2B1.21.jar",
+      "sha1": "1479c3fb90300fd2438f11d01e2e2ad480037222",
+      "size": 363558,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/1479c3fb90300fd2438f11d01e2e2ad480037222"
+      ]
+    },
+    {
       "path": "mods/ferritecore-7.0.3-fabric.jar",
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
       "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
@@ -3875,9 +3884,9 @@
     },
     {
       "path": "mods/numismatic-overhaul-0.3.5+1.21.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/b609d03727825b01629f5536c803be01b6eeadc8",
-      "sha1": "b609d03727825b01629f5536c803be01b6eeadc8",
-      "size": 609275,
+      "url": "https://mods.kadenmegarimi.id.vn/files/df3fe13c8ae0691c72aff48ebf60505c01e44b18",
+      "sha1": "df3fe13c8ae0691c72aff48ebf60505c01e44b18",
+      "size": 625070,
       "mirrors": []
     },
     {
