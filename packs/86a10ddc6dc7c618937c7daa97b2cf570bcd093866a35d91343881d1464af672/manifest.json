@@ -26,6 +26,24 @@
       ]
     },
     {
+      "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar",
+      "sha1": "22442f5594bd537ab603cb36fba70363ebb7992a",
+      "size": 1810710,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/22442f5594bd537ab603cb36fba70363ebb7992a"
+      ]
+    },
+    {
+      "path": "mods/BetterF3-Spark-Module-Fabric-5.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/iZX8RqTF/versions/eozNN1dF/BetterF3-Spark-Module-Fabric-5.0.0.jar",
+      "sha1": "26e971e025883e306407b28fc615eda807426818",
+      "size": 129974,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/26e971e025883e306407b28fc615eda807426818"
+      ]
+    },
+    {
       "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
       "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/fhyqphwv/BiomesOPlenty-fabric-1.21.1-21.1.0.14.jar",
       "sha1": "96fdc8f45f431803f03830c534bff171250ab8d1",
@@ -1193,6 +1211,15 @@
       "size": 205305,
       "mirrors": [
         "https://mods.kadenmegarimi.id.vn/files/3b80027d2ed279b26b2d300b9545fe5b1c40ff60"
+      ]
+    },
+    {
+      "path": "mods/spark-1.10.109-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
+      "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
+      "size": 3609981,
+      "mirrors": [
+        "https://mods.kadenmegarimi.id.vn/files/eff42cbeee6fe9a7f3c57031c23200256366dcd1"
       ]
     },
     {
@@ -3911,9 +3938,9 @@
     },
     {
       "path": "mods/numismatic-overhaul-0.3.5+1.21.jar",
-      "url": "https://mods.kadenmegarimi.id.vn/files/b609d03727825b01629f5536c803be01b6eeadc8",
-      "sha1": "b609d03727825b01629f5536c803be01b6eeadc8",
-      "size": 609275,
+      "url": "https://mods.kadenmegarimi.id.vn/files/df3fe13c8ae0691c72aff48ebf60505c01e44b18",
+      "sha1": "df3fe13c8ae0691c72aff48ebf60505c01e44b18",
+      "size": 625070,
       "mirrors": []
     },
     {
