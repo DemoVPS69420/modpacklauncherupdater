@@ -5090,7 +5090,7 @@
       "mirrors": []
     },
     {
-      "path": "mods/rimulib-1.2.3-fabric.jar",
+      "path": "mods/rimulib-1.2.3-fabric.jar.disabled",
       "url": "https://mods.kadenmegarimi.id.vn/files/b0ca6c933b3bc633e40b7e57122afa521a2b1eab",
       "sha1": "b0ca6c933b3bc633e40b7e57122afa521a2b1eab",
       "size": 3399227,
@@ -5104,7 +5104,7 @@
       "mirrors": []
     },
     {
-      "path": "mods/the-shooting-star-demo-1.5.2-fabric.jar",
+      "path": "mods/the-shooting-star-demo-1.5.2-fabric.jar.disabled",
       "url": "https://mods.kadenmegarimi.id.vn/files/c778270a34c3e0e822ac18be23a5932bff0050af",
       "sha1": "c778270a34c3e0e822ac18be23a5932bff0050af",
       "size": 93671290,
