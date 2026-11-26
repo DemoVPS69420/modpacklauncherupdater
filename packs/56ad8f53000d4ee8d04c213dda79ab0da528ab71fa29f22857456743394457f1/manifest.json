@@ -1,6 +1,6 @@
 {
   "name": "WerewolfModDemo",
-  "version": "1.0..1",
+  "version": "1.0.1.2",
   "minecraft": "1.20.1",
   "loader": {
     "type": "forge",
